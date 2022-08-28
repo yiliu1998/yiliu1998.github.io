@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Yi Liu's Homepage</title>
+
+  <script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+  <script src="js/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.js"></script>
+  <link rel="stylesheet" href="css/jquery-ui.css" />
+  <link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.css">
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#table_software').DataTable({
+		"columnDefs": [
+   	 		{ className: "dt-center", "targets": [ 0,1,2,3 ]},  {"width": "35%", "targets": 0 }
+  		],
+		"aaSorting": []
+	});
+	$('#table_statool').DataTable({
+                "columnDefs": [
+                        { className: "dt-center", "targets": [ 0,1,2 ]},  {"width": "35%", "targets": 0 }
+                ],
+                "aaSorting": [], bFilter: false, bInfo: false, bPaginate: false
+        });
+      $('#tabs').tabs({show: 'fade', hide: 'fade'}); 
+});
+$(function() {
+   $( "#Researchacc" ).tabs({ show: 'fade', hide: 'fade', heightStyle: "content" });
+});
+</script>
+
+</head>
+<body>
+
+<center><h1> Yi Liu </h1></center>
+
+<div class="tabs-centre" id="tabs">
+      <ul>
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#Research">Research </a></li>
+        <li><a href="#CV">CV</a></li>
+      </ul>
+      
+      <center><div id="Home" class="container">   
+            <img src="images/portrait.jpg" width="30%" style="float:right">
+            <p>I am currently a PhD student in <a href="https://statistics.sciences.ncsu.edu/" target="_blank"> Department of Statistics</a> at North Carolina State University. <br><br> 
+            I am interested in causal inference. <br><br> 
+	</p>	    
+      </div></center>
+      
+      <center><div id="Research" class="container">
+<br>
+<b>Causal inference via overlap weights</b>
+<br>
+<br>
+Before I join NC State, I did my master's thesis research project with Dr. Roland Matsouaka,....
+<br>
+<br>
+<br>
+     </div></center>
+      
+     <center><div id="CV" class="container">        
+      <br>
+		  <p>Curriculum Vitae</p>
+     </div></center>
+     
+</div> 
+
+</body>
+</html>
