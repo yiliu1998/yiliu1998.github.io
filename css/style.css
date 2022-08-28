@@ -8,25 +8,29 @@ body,textarea
 
 
 a:link {
-color: #17238F;
-text-decoration: none;
+	font-family: Georgia, serif;
+	color: #17238F;
+	text-decoration: none;
 }
-a:visited {
-color: #17238F;
-text-decoration: none;
+	a:visited {
+	font-family: Georgia, serif;
+	color: #17238F;
+	text-decoration: none;
 }
 a:hover {
-color: #0000FF;
-text-decoration: none;
+	font-family: Georgia, serif;
+	color: #0000FF;
+	text-decoration: none;
 }
 
 
 h1
 {
-      font-weight: 400;
-      font-size: 250%;
-      color: #3D3D3D;
-      line-height: 1em;
+	font-family: Georgia, serif;
+      	font-weight: 400;
+      	font-size: 250%;
+      	color: #3D3D3D;
+      	line-height: 1em;
 }
       
 .container 
