@@ -1,8 +1,8 @@
 body,textarea
 {
-	font-family: 'Gerorgia', serif;
+	font-family: Gerorgia, serif;
 	font-size: 100%;
-	font-weight: 300;
+	font-weight: 600;
 	line-height: 1.5em;
 }
 
@@ -23,17 +23,17 @@ text-decoration: none;
 
 h1
 {
-	font-weight: 400;
-      font-size: 200%;
-	color: #3D3D3D;
-	line-height: 1em;
+      font-weight: 400;
+      font-size: 250%;
+      color: #3D3D3D;
+      line-height: 1em;
 }
       
 .container 
 {
-      text-align: left;
-      width: 1200px;
-      margin-bottom: 5%;
+    text-align: left;
+    width: 1200px;
+    margin-bottom: 5%;
 }
 
 
