@@ -1,6 +1,6 @@
 body,textarea
 {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Source Sans Pro', serif;
 	font-size: 100%;
 	font-weight: 300;
 	line-height: 1.5em;
@@ -25,7 +25,7 @@ h1
 {
 	font-weight: 400;
       font-size: 300%;
-	color: #666;
+	color: #0A0000;
 	line-height: 1em;
 }
       
