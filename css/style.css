@@ -31,9 +31,10 @@ h1
       
 .container 
 {
-    text-align: left;
-    width: 1200px;
-    margin-bottom: 5%;
+	font-family: Georgia, serif;
+	text-align: left;
+    	width: 1200px;
+    	margin-bottom: 5%;
 }
 
 
