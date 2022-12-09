@@ -9,24 +9,24 @@ body,textarea
 
 a:link {
 	font-family: Georgia, serif;
-	color: #6200FF;
+	color: #4FA7B3;
 	text-decoration: none;
 }
 	a:visited {
 	font-family: Georgia, serif;
-	color: #6200FF;
+	color: #4FA7B3;
 	text-decoration: none;
 }
 a:hover {
 	font-family: Georgia, serif;
-	color: #29D9BE;
+	color: #6200FF;
 	text-decoration: none;
 }
 
 h1
 {
 	font-family: Georgia, serif;
-      	font-weight: 600;
+      	font-weight: 500;
       	font-size: 300%;
       	color: #545454;
       	line-height: 1em;
