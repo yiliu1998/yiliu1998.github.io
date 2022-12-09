@@ -9,27 +9,26 @@ body,textarea
 
 a:link {
 	font-family: Georgia, serif;
-	color: #17238F;
+	color: #37BDBD;
 	text-decoration: none;
 }
 	a:visited {
 	font-family: Georgia, serif;
-	color: #17238F;
+	color: #37BDBD;
 	text-decoration: none;
 }
 a:hover {
 	font-family: Georgia, serif;
-	color: #0000FF;
+	color: #6200FF;
 	text-decoration: none;
 }
-
 
 h1
 {
 	font-family: Georgia, serif;
       	font-weight: 400;
       	font-size: 250%;
-      	color: #3D3D3D;
+      	color: #595BBA;
       	line-height: 1em;
 }
       
@@ -37,6 +36,7 @@ h1
 {
 	font-family: Georgia, serif;
 	text-align: left;
+	color: #DB2C8F;
     	width: 1200px;
     	margin-bottom: 5%;
 }
