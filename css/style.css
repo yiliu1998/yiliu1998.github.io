@@ -1,7 +1,7 @@
 body,textarea
 {
 	font-family: Georgia, serif;
-	font-size: 100%;
+	font-size: 200%;
 	font-weight: 200;
 	line-height: 1.5em;
 }
@@ -35,5 +35,6 @@ h1
 {
 	font-family: Georgia, serif;
 	text-align: left;
+	font-size: 200%;
     	margin-bottom: 5%;
 }
