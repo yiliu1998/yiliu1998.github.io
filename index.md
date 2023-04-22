@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my homepage! 
+  Welcome! 
 </p>
 
 <p> Yi Liu is currently a PhD student in
