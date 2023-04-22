@@ -4,7 +4,6 @@ title: Publications
 slug: /publications
 ---
 
-<br>
 <b> Peer-reviewed Journal Papers </b>
 <br>
 <ol>	
