@@ -7,6 +7,7 @@ slug: /cv
    A PDF of my CV is available <a href="https://drive.google.com/file/d/1fWT5WNnBpqIcPXy0rGmVVk6eUGiyzW8t/view?usp=sharing" target="_blank">here</a> for more details.
 </p>
 
+<br>
 <b> Education </b>
 <p>
 <ul>
@@ -16,6 +17,7 @@ slug: /cv
 </ul>
 </p>
 
+<br>
 <b> Selected Awards & Honors </b>
 <p>
 <ul>
