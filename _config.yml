@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yliu297@ncsu.edu
-      link: mailto:yliu297@ncsu.edu
+      value: yliu297[at]ncsu[dot]edu
+      #link: mailto:yliu297@ncsu.edu
   follow:
     - name: Twitter
       link: https://twitter.com/YiLiu1998
