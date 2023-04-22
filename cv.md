@@ -11,9 +11,9 @@ slug: /cv
 <b> Education </b>
 <p>
 <ul>
-   <li> <b>PhD</b> in Statistics, <b>North Carolina State University</b>, Raleigh, U.S., ongoing</li>
-   <li> <b>Master</b> of Biostatistics, <b>Duke University</b> School of Medicine, Durham, U.S., 2022 (GPA: 4.0/4.0)</li>
-   <li> <b>B.S.</b> in Mathematics and Applied Mathematics, <b>Southeast University</b>, Nanjing, China 2020</li>
+   <li> <b>PhD</b> in Statistics, <b>North Carolina State University</b>, U.S., ongoing</li>
+   <li> <b>Master</b> of Biostatistics, <b>Duke University</b> School of Medicine, U.S., 2022 (GPA: 4.0/4.0)</li>
+   <li> <b>B.S.</b> in Mathematics and Applied Mathematics, <b>Southeast University</b>, China, 2020</li>
 </ul>
 </p>
 
