@@ -22,8 +22,8 @@ $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
-$on-mobile: 600px;
-$on-laptop: 2000px;
+$on-mobile: 500px;
+$on-laptop: 800px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
@@ -32,4 +32,4 @@ $on-laptop: 2000px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "base", "layout", "site", "post", "404";
+@import "base", "layout", "site", "work", "blog", "post", "404";
