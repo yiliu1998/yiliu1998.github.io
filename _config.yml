@@ -32,7 +32,7 @@ footer:
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+    style: :expanded 
 plugins:
   - jekyll-feed
 
