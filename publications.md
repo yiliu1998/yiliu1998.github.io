@@ -14,7 +14,7 @@ slug: /publications
 <br>
 <ol>	
 <li><b>Y. Liu</b>, H. Li, Y. Zhou, D. Fu, and R. A. Matsouaka (2023+). Causal inference on the treated or control participants under lack of positivity. </li>
-<li><b>Y. Liu</b>, Y. Zhou, J. Liu, D. Fu, and R. A. Matsouaka (2023+). Variance estimation for weighted treatment effect estimators. </li>
+<li><b>Y. Liu</b>, H. Li, J. Liu, Y. Zhou, D. Fu, and R. A. Matsouaka (2023+). Variance estimation for weighted treatment effect estimators from observational studies. </li>
 <li>R. A. Matsouaka, <b>Y. Liu</b>, and Y. Zhou (2023+). Overlap, matching, or entropy weights: what are we weighting for? [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>] </li>
 </ol>
 
