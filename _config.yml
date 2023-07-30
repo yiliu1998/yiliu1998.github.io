@@ -13,6 +13,8 @@ header:
   pages:
     - name: About
       slug: /
+    - name: Research
+    - name: Teaching
     - name: Publications
     - name: CV
 
@@ -28,6 +30,8 @@ footer:
       username: "@YiLiu1998"
     - name: LinkedIn
       link: https://www.linkedin.com/in/yiliu98
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?user=ARA2oPcAAAAJ&hl=en
 
 width: 850px
 
