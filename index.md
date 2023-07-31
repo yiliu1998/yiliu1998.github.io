@@ -14,5 +14,5 @@ profile_picture:
 </p>	
    
 <p> 
-	He was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_blank">Qianxi</a>, <a href="https://en.wikipedia.org/wiki/Guizhou" target="_blank">Guizhou</a> Province, China, and spent three years in <a href="http://english.guiyang.gov.cn/guanshanhu/2020-12/11/c_412283.htm" target="_blank">No.1 High School of Guiyang</a> before entering college. 
+	He was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_blank">Qianxi</a>, <a href="https://en.wikipedia.org/wiki/Guizhou" target="_blank">Guizhou</a> Province, China, and spent three years in <a href="https://www.linkedin.com/school/no-1-high-school-of-guiyang/about/" target="_blank">No.1 High School of Guiyang</a> before entering college. 
 </p>
