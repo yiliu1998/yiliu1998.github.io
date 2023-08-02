@@ -21,6 +21,7 @@ slug: /cv
 <b> Selected Awards & Honors </b>
 <p>
 <ul>
+   <li> Travel Grant, ASA Biopharmaceutical Workshop, 2023</li>
    <li> Outstanding Master's Project Award (methodology), Department of Biostatistics and Bioinformatics, Duke University, 2022</li>
    <li> Overall Academic Excellence Award, Department of Biostatistics and Bioinformatics, Duke University, 2022</li>
 </ul>
