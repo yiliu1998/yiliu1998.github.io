@@ -21,10 +21,10 @@ slug: /cv
 <b> Selected Awards & Honors </b>
 <p>
 <ul>
-   <li> Travel Grant, ASA Biopharmaceutical Workshop, 2023</li>
-   <li> Best Poster Award (3rd place of 47), Georgia Statistics Day, 2022</li>
-   <li> Outstanding Master's Project Award (methodology), Department of Biostatistics and Bioinformatics, Duke University, 2022</li>
-   <li> Overall Academic Excellence Award, Department of Biostatistics and Bioinformatics, Duke University, 2022</li>
+   <li> Travel Grant, ASA Biopharmaceutical Workshop, Rockville, MD, 2023</li>
+   <li> Best Poster Award (3rd place of 47), Georgia Statistics Day, Altanta, GA, 2022</li>
+   <li> Outstanding Master's Project Award (methodology), Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, 2022</li>
+   <li> Overall Academic Excellence Award, Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, 2022</li>
 </ul>
 </p>
 
