@@ -18,7 +18,7 @@ slug: /cv
 </p>
 
 <br>
-<b> Selected Awards & Honors </b>
+<b> Awards & Honors </b>
 <p>
 <ul>
    <li> Travel Grant, ASA Biopharmaceutical Workshop, Rockville, MD, 2023</li>
