@@ -7,7 +7,7 @@ slug: /publications
 <b> Peer-reviewed Journal Articles </b>
 <br>
 <ol>	
-<li> R. A. Matsouaka, <b>Y. Liu</b>, and Y. Zhou (2023). [<a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a>] <em>Stat Methods Med Res</em>, <b>32</b>(2): 389-403. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] </li>	
+<li> R. A. Matsouaka, <b>Y. Liu</b>, and Y. Zhou (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Stat Methods Med Res</em>, <b>32</b>(2): 389-403. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] </li>	
 </ol>
   
 <b> Technical Reports </b>
