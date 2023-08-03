@@ -4,7 +4,7 @@ title: CV
 slug: /cv
 ---
 <p>  
-   A PDF of my CV is available <a href="https://drive.google.com/file/d/1fWT5WNnBpqIcPXy0rGmVVk6eUGiyzW8t/view?usp=sharing" target="_blank">here</a> for more details.
+   A PDF of my CV is available <a href="https://drive.google.com/file/d/1o-R6fcze9kHlhZCveFkfFE12XNmC3lAA/view?usp=drive_link" target="_blank">here</a> for more details.
 </p>
 
 <br>
