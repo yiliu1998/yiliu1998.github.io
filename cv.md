@@ -3,10 +3,6 @@ layout: default
 title: CV
 slug: /cv
 ---
-<p>  
-   A PDF of my CV is available <a href="https://drive.google.com/file/d/1o-R6fcze9kHlhZCveFkfFE12XNmC3lAA/view?usp=drive_link" target="_blank">here</a> for more details.
-</p>
-
 <br>
 <b> Education </b>
 <p>
