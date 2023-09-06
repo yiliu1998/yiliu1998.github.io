@@ -6,9 +6,6 @@ slug: /cv
 
 <!DOCTYPE html>
 <html>
-<head>
-	<title>CV </title>
-</head>
 <body>
 	<center>
 		<h1 style="color: blue">Yi Liu's CV 2023</h1>
