@@ -3,12 +3,13 @@ layout: default
 title: CV
 slug: /cv
 ---
-
+<div class="hide-on-mobile">
 <center>
 <iframe  src= "https://yiliu1998.github.io/cvpdf/CV_Yi_Liu.pdf"
-	 width: 1px; 
-	 min-width: 100%;>
+	 width="800"
+	 height="500">
 </iframe >
 </center>
+</div>
 
 
