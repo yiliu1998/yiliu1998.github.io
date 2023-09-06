@@ -16,6 +16,7 @@ header:
     - name: Research
     - name: Teaching
     - name: Methodological Papers
+      slug: /methodpaper
     - name: CV
 
 footer:
