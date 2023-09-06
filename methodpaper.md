@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Publications
-slug: /publications
+title: Methodological Papers
+slug: /methodpaper
 ---
 
 <b> Peer-reviewed Journal Articles </b>
