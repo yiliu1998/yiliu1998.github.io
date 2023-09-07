@@ -7,6 +7,7 @@ slug: /teaching
 <b> Teaching Assistant </b>
 <br>
 As a TA of a class, my regular duties include: holding office hours (3--4 hrs/week), grading, and proctoring exams. Some course-specific duties (if any) are specified under each course below.
+<br>
 <ol>
 <li>  ST 370: Probability and Statistics for Engineers (2023-), NCSU
     <ul>
