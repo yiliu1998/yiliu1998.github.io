@@ -10,7 +10,7 @@ As a graduate TA, my regular duties include: holding office hours (3--4 hrs/week
 <ol>
 <li>  ST 370: Probability and Statistics for Engineers, 2023-, at NC State
     <ul>
-    <li> Collaborated with other TAs for writing R Lab instructions [<a href="https://yiliu1998.github.io/teaching/NCSU/lab1_st370.pdf" target="_blank">lab 1</a>]</li>
+    <li> Collaborated with other TAs for writing R Lab instructions </li>
     </ul>
 </li>
 <li> ST 512: Statistical Methods for Researchers II, Summer 2023, at NC State
