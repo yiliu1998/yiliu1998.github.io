@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Methodological Papers
+title: Method Papers
 slug: /methodpaper
 ---
 
