@@ -20,5 +20,5 @@ This page will be constructed with more details and figures in the future. Pleas
   <li> 05/2023: "<a href="https://yiliu1998.github.io/slides/DISS_2023_Slides.pdf" target="_blank"><em>Causal inference on the treated and on the control under lack of positivity</em></a>", Duke Industry Statistics Symposium, online. 
   </li>
   <li> 10/2022: "<em>Targeting clinical equipoise via propensity score weighting</em>", Georgia Statistics Day, Athens, GA. </li>
-  <li> 10/2022: "<em>Overlap, inverse probability, and matching weights: what are we weighting for?</em>", The 35th New England Statistics Symposium (NESS), online. </li>
+  <li> 05/2022: "<em>Overlap, inverse probability, and matching weights: what are we weighting for?</em>", The 35th New England Statistics Symposium (NESS), online. </li>
 </ul>
