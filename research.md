@@ -11,7 +11,7 @@ This page will be constructed with more details and figures in the future. Pleas
 <b> Presentations </b>
 
 <ul>
-  <li> 12/2023: "<a href="https://yiliu1998.github.io/slides/CIMA_Fall_2023.pdf" target="_blank"><em>Propensity score weighting under lack of positivity</em></a>", Poster Session of Statistics Seminar at NCSU, Raleigh, NC. 
+  <li> 12/2023: "<a href="https://yiliu1998.github.io/poster/OWWWF_Poster.pdf" target="_blank"><em>Overlap, matching, or entropy weights: what are we weighting for?</em></a>", Poster Session of Statistics Seminar at NCSU, Raleigh, NC. 
   </li>
   <li> 10/2023: "<a href="https://yiliu1998.github.io/slides/CIMA_Fall_2023.pdf" target="_blank"><em>Propensity score weighting under lack of positivity</em></a>", CIMA Lab Group Meeting at NCSU, Raleigh, NC. 
   </li>
