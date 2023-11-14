@@ -8,7 +8,7 @@ slug: /research
 This page will be constructed with more details and figures in the future. Please, do expect more updates, but I also post some presentations before with slides or posters as follows.  
 <br />
 
-<b> Presentations </b>
+<b> Presentations </b> (including talks and student posters)
 
 <ul>
   <li> 12/2023: "<a href="https://yiliu1998.github.io/poster/OWWWF_Poster.pdf" target="_blank"><em>Overlap, matching, or entropy weights: what are we weighting for?</em></a>", Poster Session of Statistics Seminar at NCSU, Raleigh, NC. 
