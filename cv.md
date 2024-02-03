@@ -8,7 +8,7 @@ slug: /cv
 <center>
 <object  data= "https://yiliu1998.github.io/cvpdf/CV_Yi_Liu.pdf"
 	 width="900"
-	 height="550" >
+	 height="500" >
 </object >
 </center>
 </div>
