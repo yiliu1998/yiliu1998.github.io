@@ -7,8 +7,11 @@ slug: /presentations
 <b> Oral Presentations </b> 
 
 <ul>
-   <li> "<a href="https://yiliu1998.github.io/slides/CIMA_Fall_2023.pdf" target="_blank"><em>Propensity score weighting under lack of positivity</em></a>", CIMA Lab Group Meeting at NCSU, Raleigh, NC (2023). </li>
-   <li> "<a href="https://yiliu1998.github.io/slides/DISS_2023_Slides.pdf" target="_blank"><em>Causal inference on the treated and on the control under lack of positivity</em></a>", Duke Industry Statistics Symposium, online (2023). </li>
+   <li> "<a href="https://yiliu1998.github.io/slides/CIMA_Fall_2023.pdf" target="_blank"><em>Average treatment effect on the treated, under lack of positivity</em></a>"</li>
+     <ul>
+      <li> CIMA Lab Group Meeting at NCSU, Raleigh, NC (2023). </li>
+      <li> Duke Industry Statistics Symposium, online (an earlier version, 2023). </li>
+     </ul>
 </ul>
 
 <b> Student Posters </b>
