@@ -7,8 +7,8 @@ slug: /cv
 <div class="deskContent">
 <center>
 <object  data= "https://yiliu1998.github.io/cvpdf/CV_Yi_Liu.pdf" 
-	 width="900"
-	 height="500" >
+	 width="800"
+	 height="450" >
 </object >
 </center>
 </div>
