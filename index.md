@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-	Welcome to Yi Liu's homepage! 
+	Welcome to Yi Liu's homepage!
 </p>
 
 <p>
