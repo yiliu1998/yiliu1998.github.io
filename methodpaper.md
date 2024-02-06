@@ -16,6 +16,7 @@ slug: /methodpaper
 <b> Technical Reports</b>
 <br>
 <ol>	
+<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2023+). Average treatment effect on the treated, under lack of positivity. Under review at <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>] </li>
 </ol>
 
