@@ -4,7 +4,7 @@ title: Method Papers
 slug: /methodpaper
 ---
 
-*: Equal contribution
+*: Approximately equal contribution
 
 <b> Peer-reviewed Journal Articles </b>
 <br>
