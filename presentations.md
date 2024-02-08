@@ -9,7 +9,7 @@ slug: /presentations
 <ul>
    <li> "<a href="https://yiliu1998.github.io/slides/ENAR_2024_Oral.pdf" target="_blank"><em>Average treatment effect on the treated, under lack of positivity</em></a>"</li>
      <ul>
-      <li> International Biometric Society Eastern North American Region (ENAR) Spring Meeting (2024). </li>
+      <li> International Biometric Society Eastern North American Region (ENAR) Spring Meeting, Baltimore, MD (2024). </li>
       <li> CIMA Lab Group Meeting at NCSU, Raleigh, NC (an earlier version, 2023). </li>
       <li> Duke Industry Statistics Symposium, online (an earlier version, 2023). </li>
      </ul>
