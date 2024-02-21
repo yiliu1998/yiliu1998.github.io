@@ -18,7 +18,3 @@ I am currently a PhD student in the <a href="https://statistics.sciences.ncsu.ed
 <p> 
 I was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_blank">Qianxi</a>, <a href="https://en.wikipedia.org/wiki/Guizhou" target="_blank">Guizhou</a> Province, China, and had the privilege of spending three enriching years at <a href="https://www.linkedin.com/school/no-1-high-school-of-guiyang/about/" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
 </p>
-
-<p> 
-Please find the PDF of my CV here (to be uploaded later) for more information about honors I received, my research, teaching, and serivces, etc. 
-</p>
