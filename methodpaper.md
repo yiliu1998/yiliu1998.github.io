@@ -17,7 +17,9 @@ slug: /methodpaper
 <br>
 <ol>	
 <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
-<li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2023+). Average treatment effect on the treated, under lack of positivity. Under review at <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>] </li>
+<li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024+). Average treatment effect on the treated, under lack of positivity. Under review at <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>] </li>
+<li>Wang Y, <b>Liu Y</b>, and Yang S (2024+). Rate doubly robust estimation for weighted average treatment effects. Invited revision. [arXiv] </li>
+<li>Liu J, <b>Liu Y</b>, Zhou Y and Matsouaka RA (2024+). Valid and efficient estimations for racial disparities in health care expenditure. [arXiv] </li>
 </ol>
 
 <br />
