@@ -20,5 +20,5 @@ I was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_b
 </p>
 
 <p> 
-Please find the PDF of my CV here (uploaded later) for more information about honors I received, my research, teaching, and serivces, etc. 
+Please find the PDF of my CV here (to be uploaded later) for more information about honors I received, my research, teaching, and serivces, etc. 
 </p>
