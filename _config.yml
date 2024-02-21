@@ -12,11 +12,9 @@ title: Yi Liu's Homepage
 header:
   pages:
     - name: About
-      slug: /
     - name: Presentations
     - name: Method Papers
       slug: /methodpaper
-    - name: CV
 
 footer:
   show_powered_by: true
