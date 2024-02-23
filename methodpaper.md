@@ -4,7 +4,13 @@ title: Method Papers
 slug: /methodpaper
 ---
 
-*: Approximately equal contribution
+*: Equal or nearly equal contribution
+
+<b> Methods in Analyzing Multi-Source Data </b>
+
+<ol>	
+  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
+</ol>
 
 <b> Advances in Propensity Score Methods </b>
 
@@ -17,10 +23,4 @@ Propensity score plays a crucial role in causal inference using observational da
   <li>Wang Y, <b>Liu Y</b>, and Yang S (2024+). Rate doubly robust estimation for weighted average treatment effects. Invited revision. [arXiv] </li>
 </ol>
   
-<b> Methods in Analyzing Multi-Source Data </b>
-
-
-<ol>	
-  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
-</ol>
 
