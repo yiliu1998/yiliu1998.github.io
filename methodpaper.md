@@ -8,9 +8,8 @@ slug: /methodpaper
 
 <b> Advances in Propensity Score Methods </b>
 
-Propensity score plays a crucial role in causal inference (comparative effectiveness research). My paper of this section 
+Propensity score plays a crucial role in causal inference using observational data. My paper of this section plays around propensity score. I have worked on (i) practical evaluations of novel propensity score methods targeting different population; (ii) development of new methods when there is lack of positivity; (iii) treatment effect estimation using semiparametric efficient and machine learning methods. 
 
-<br>
 <ol>	
   <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024+). Average treatment effect on the treated, under lack of positivity. Under review at <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>] </li>
   <li>Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2024). Overlap, matching, or entropy weights: what are we weighting for? <em>Communications in Statistics - Simulation and Computation</em>. Forthcoming. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>] </li>
@@ -20,9 +19,8 @@ Propensity score plays a crucial role in causal inference (comparative effective
   
 <b> Methods in Analyzing Multi-Source Data </b>
 
-<br>
+
 <ol>	
   <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
 </ol>
 
-<br />
