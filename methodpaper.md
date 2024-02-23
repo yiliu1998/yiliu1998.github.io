@@ -14,7 +14,7 @@ slug: /methodpaper
 
 <b> Advances in Propensity Score Methods </b>
 
-My paper of this section plays around propensity score, a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I have worked on (i) practical evaluations of novel propensity score weighting methods; (ii) development of new methods when there is lack of positivity; (iii) treatment effect estimation using semiparametric efficient and machine learning methods. 
+My paper of this section plays around the propensity score, a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I have worked on (i) practical evaluations of novel propensity score weighting methods; (ii) development of new methods when there is lack of positivity; (iii) treatment effect estimation using semiparametric efficient and machine learning methods. 
 
 <ol>	
   <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024+). Average treatment effect on the treated, under lack of positivity. Under review at <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>] </li>
