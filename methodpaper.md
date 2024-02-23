@@ -7,6 +7,7 @@ slug: /methodpaper
 *: Approximately equal contribution
 
 <b> Advances in Propensity Score Methods </b>
+
 Propensity score plays a crucial role in causal inference (comparative effectiveness research). My paper of this section 
 
 <br>
