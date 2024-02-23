@@ -6,7 +6,7 @@ slug: /methodpaper
 
 *: Approximately equal contribution
 
-<b> Propensity score weighting </b>
+<b> Advances in Causal Inference </b>
 <br>
 <ol>	
 <li>Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2024). Overlap, matching, or entropy weights: what are we weighting for? <em>Communications in Statistics - Simulation and Computation</em>. Forthcoming. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>]</li>
