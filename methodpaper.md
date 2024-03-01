@@ -6,7 +6,7 @@ slug: /methodpaper
 
 *: Equal or nearly equal contribution
 
-<b> Methods in Analyzing Multi-Source Data </b>
+<b> Methods for Multi-Source Data </b>
 
 <ol>	
   <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024+). Multi-source conformal inference under distribution shift. Submitted. </li>
