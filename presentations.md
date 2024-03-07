@@ -7,7 +7,7 @@ slug: /presentations
 <b> Oral Presentations </b> 
 
 <ul>
-   <li> "<a href="https://yiliu1998.github.io/slides/ENAR_2024_Oral.pdf" target="_blank"><em>Average treatment effect on the treated, under lack of positivity</em></a>"</li>
+   <li> "<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank"><em>Average treatment effect on the treated, under lack of positivity</em></a>"</li>
      <ul>
       <li> International Biometric Society Eastern North American Region (ENAR) Spring Meeting, Baltimore, MD (2024). </li>
       <li> <a href="https://shuyang.wordpress.ncsu.edu/cima-lab/" target="_blank">CIMA Lab</a> Group Meeting at NCSU, Raleigh, NC (an earlier version, 2023). </li>
