@@ -9,7 +9,7 @@ slug: /methodpaper
 <b> Methods for Multi-Source Data </b>
 
 <ol>	
-  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). Multi-source conformal inference under distribution shift. <em>International Conference on Machine Learning (ICML)</em>, accepted. [<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>] </li>
+  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). Multi-source conformal inference under distribution shift. <em>International Conference on Machine Learning (ICML)</em>, accepted. [<a href="https://arxiv.org/abs/2405.09331" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>] </li>
 </ol>
 
 <b> Advances in Propensity Score Methods </b>
