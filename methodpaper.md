@@ -4,7 +4,7 @@ title: Method Papers
 slug: /methodpaper
 ---
 
-*: Equal or nearly equal contribution
+* indicates equal contribution; &dagger indicates I am a corresponding author. 
 
 <b> Adaptive Methods for Data Integration </b>
 
