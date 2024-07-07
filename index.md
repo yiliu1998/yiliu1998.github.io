@@ -1,12 +1,9 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
 ---
 
 <p>
-Welcome to Yi Liu's homepage! 
+<img src="/assets/img/profile-pic.jpg" width=500/>
 </p>
 
 <p>
