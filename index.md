@@ -12,7 +12,8 @@ I am currently a PhD student in the <a href="https://statistics.sciences.ncsu.ed
 </p>	
    
 <p> 
-In the summer of 2024, I was fortunate to be an intern in the <a href="https://cfar.duke.edu/cores/quantitative-sciences-core/interns-2024" target="_blank">Quantitative Methods in HIV/AIDS Internship</a>, Duke University, funded by the NIAID R25 training grant. I do appreciate the funding and opportunities I received during my PhD study.
+I am funded by the <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> for cardiovascular disease (CVD) research and the teaching assistantship of NC State graduate school for my PhD. 
+In the summer of 2024, I was fortunate to be an intern in the <a href="https://cfar.duke.edu/cores/quantitative-sciences-core/interns-2024" target="_blank">Quantitative Methods in HIV/AIDS Internship</a>, Duke University, funded by the NIAID R25 training grant. 
 </p>	
    
 <p> 
