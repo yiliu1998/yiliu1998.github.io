@@ -12,7 +12,7 @@ I am currently a PhD student in the <a href="https://statistics.sciences.ncsu.ed
 
 <ul>
   <li>Causal inference, conformal prediction and missing data analysis</li>
-  <li>Data integration and efficiency gain</li>
+  <li>Data integration and efficiency gain on different causal parameter estimations</li>
   <li>HIV/AIDS case study using quantitative methods</li>
 </ul>
 
