@@ -8,7 +8,7 @@ layout: home
 
 <p>
 
-I am currently a PhD student in the <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a>, North Carolina State University (NCSU), under the co-advisement of Profs. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. My research interests include:
+I am currently a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a>, North Carolina State University (NCSU), under the co-advisement of Profs. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. My research interests include:
 
 <ul>
   <li>Causal inference, conformal prediction and missing data analysis</li>
