@@ -8,7 +8,7 @@ layout: home
 
 <p>
 
-I am currently a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a>, North Carolina State University (NCSU), under the co-advisement of Profs. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. My research interests include:
+I am currently a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University (NCSU), under the co-advisement of Professors <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. My research interests include:
 
 <ul>
   <li>Causal inference, conformal prediction and missing data analysis</li>
@@ -24,7 +24,7 @@ In the summer of 2024, I was an intern in the <a href="https://cfar.duke.edu/cor
 </p>	
    
 <p> 
-Previously, I earned my Master of Biostatistics degree from the <a href="https://biostat.duke.edu/" target="_blank">Department of Biostatistics and Bioinformatics</a>, Duke University School of Medicine in <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a>, under the guidance of Prof. <a href="https://scholars.duke.edu/person/roland.matsouaka" target="_blank">Roland Matsouaka</a>. During this time, I developed a keen interest in propensity score weighting methods, which ignited my journey into causal inference with observational studies! More previously, I obtained my Bachelor of Science in Mathematics and Applied Mathematics from <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> in Nanjing, Jiangsu Province, China in 2020.
+Previously, I earned my Master of Biostatistics degree from the <a href="https://biostat.duke.edu/" target="_blank">Department of Biostatistics and Bioinformatics</a>, Duke University School of Medicine in <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a>, under the guidance of Professor <a href="https://scholars.duke.edu/person/roland.matsouaka" target="_blank">Roland Matsouaka</a>. During this time, I developed a keen interest in propensity score methods, which ignited my journey into causal inference. More previously, I obtained my Bachelor of Science in Mathematics and Applied Mathematics from <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> in Nanjing, Jiangsu Province, China in 2020.
 </p>	
    
 <p> 
