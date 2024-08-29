@@ -11,7 +11,8 @@ slug: /research
 <img src="/assets/img/MuSCI.jpg" width=450/>
 
 <ol>	
-  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, forthcoming. [<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>] </li>
+  <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>. [<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>] 
+  </li>
 </ol>
 
 <b> Advances in Propensity Score Methods </b>
@@ -19,8 +20,10 @@ slug: /research
 My research of this section plays around the propensity score (PS), a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I work on (i) development of novel PS weighting methods when there is lack of positivity/overlap; (ii) efficient estimation for treatment effect on different target population using modern debiased machine learning algorithms; (iii) empirical evaluation, case study and user-friendly software development for these methods. 
 
 <ol>	
-  <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). Average treatment effect on the treated, under lack of positivity. <em>Statistical Methods in Medical Research</em>, forthcoming. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>] </li>
+  <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). Average treatment effect on the treated, under lack of positivity. <a href="https://journals.sagepub.com/doi/10.1177/09622802241269642" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]      </li>
+
   <li>Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics - Simulation and Computation</em>. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/OWWWF_Poster.pdf" target="_blank">poster</a>] </li>
+  
   <li> Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] </li>	
 </ol>
   
