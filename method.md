@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Method Papers
-slug: /methodpaper
+title: Methodology Research
+slug: /method
 ---
 
 *indicates equal contribution; <sup>&dagger;</sup>indicates I am a corresponding author. 
