@@ -13,8 +13,8 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Methodology Research
-      slug: /method
+    - name: Research
+      slug: /research
 
 footer:
   show_powered_by: true
