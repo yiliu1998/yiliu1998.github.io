@@ -13,8 +13,8 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Method Papers
-      slug: /methodpaper
+    - name: Methodology Research
+      slug: /method
 
 footer:
   show_powered_by: true
