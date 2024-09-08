@@ -14,13 +14,13 @@ I am currently a PhD student in the <a href="https://sites.google.com/ncsu.edu/c
   <li>Causal inference, conformal prediction and missing data analysis</li>
   <li>Data integration and efficiency gain on different causal parameter estimations</li>
   <li>HIV/AIDS case study using quantitative methods</li>
+  <li>Win theory and statistics for composite endpoints in clinical trials</li>
 </ul>
 
 </p>	
    
 <p> 
-I am funded by the <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> for cardiovascular disease (CVD) research and the graduate teaching assistantship of NCSU. 
-In the summer of 2024, I was an intern in the <a href="https://cfar.duke.edu/cores/quantitative-sciences-core/interns-2024" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University, funded by the NIAID R25 training grant. 
+I am funded by the <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> for cardiovascular disease (CVD) research (NCSU, Duke & Duke Clinical Research Institute). In the summer of 2024, I was an intern in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University, funded by the NIAID R25 training grant. 
 </p>	
    
 <p> 
