@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-*indicates equal contribution; <sup>&dagger;</sup>indicates I am a corresponding author. 
+*marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
 <b> Adaptive Methods for Data Integration </b>
 
@@ -24,7 +24,7 @@ My research of this section plays around the propensity score (PS), a crucial to
 
   <li>Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics - Simulation and Computation</em>. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/OWWWF_Poster.pdf" target="_blank">poster</a>] </li>
   
-  <li> Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] </li>	
+  <li> Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] </li>	
 </ol>
   
 
