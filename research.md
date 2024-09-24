@@ -18,7 +18,7 @@ slug: /research
 <b> Robust and Efficient Methods for Randomized Clinical Trials </b>
 
 <ol>	
-  <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate help under randomization? A comparative study on current practices.</a> <em>Revision submitted</em>. 
+  <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>Revision submitted</em>. 
   </li>
   
 </ol>
