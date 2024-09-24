@@ -15,9 +15,17 @@ slug: /research
   </li>
 </ol>
 
+<b> Robust and Efficient Methods for Randomized Clinical Trials </b>
+
+<ol>	
+  <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate help under randomization? A comparative study on current practices.</a> <em>Revision submitted</em>. 
+  </li>
+  
+</ol>
+
 <b> Advances in Propensity Score Methods </b>
 
-My research of this section plays around the propensity score (PS), a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I work on (i) development of novel PS weighting methods when there is lack of positivity/overlap; (ii) efficient estimation for treatment effect on different target population using modern debiased machine learning algorithms; (iii) empirical evaluation, case study and user-friendly software development for these methods. 
+This section plays around the propensity score (PS), a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I work on (i) development of novel PS weighting methods when there is lack of positivity/overlap; (ii) robust and efficient estimation for treatment effect by modern debiasing algorithms; (iii) empirical evaluation, case study and user-friendly software development for these methods. 
 
 <ol>	
   <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
