@@ -20,7 +20,7 @@ slug: /research
 My research of this section plays around the propensity score (PS), a crucial tool in comparative effectiveness research for balacing covariate distributions and defining goalpost of inference. I work on (i) development of novel PS weighting methods when there is lack of positivity/overlap; (ii) efficient estimation for treatment effect on different target population using modern debiased machine learning algorithms; (iii) empirical evaluation, case study and user-friendly software development for these methods. 
 
 <ol>	
-  <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revsion submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
+  <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
   </li>
   
   <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
