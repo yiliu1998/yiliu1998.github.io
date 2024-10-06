@@ -13,8 +13,8 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Research
-      slug: /research
+    - name: Publications
+      slug: /publications
     - name: Software
       slug: /software
 
