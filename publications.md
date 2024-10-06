@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-slug: /research
+title: Publications
+slug: /publications
 ---
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
