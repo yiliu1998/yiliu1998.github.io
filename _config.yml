@@ -15,6 +15,8 @@ header:
       slug: /
     - name: Research
       slug: /research
+    - name: Software
+      slug: /software
 
 footer:
   show_powered_by: true
