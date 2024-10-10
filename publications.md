@@ -9,7 +9,7 @@ slug: /publications
 <b> Adaptive Methods for Data Integration </b>
 
 <ol>	
-<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research (PMLR)</em>. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>] 
+<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research</em>. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>] 
 </li>
 </ol>
 
