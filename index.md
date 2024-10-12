@@ -28,5 +28,5 @@ Previously, I earned my Master of Biostatistics degree from the <a href="https:/
 </p>	
    
 <p> 
-I was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_blank">Qianxi</a>, <a href="http://www.eguizhou.gov.cn/" target="_blank">Guizhou</a> Province, China, and had the privilege of spending three enriching years at <a href="https://www.linkedin.com/school/no-1-high-school-of-guiyang/about/" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
+I was born in <a href="https://en.wikipedia.org/wiki/Qianxi,_Guizhou" target="_blank">Qianxi</a>, <a href="http://www.eguizhou.gov.cn/" target="_blank">Guizhou</a> Province, China, and had the privilege of spending three enriching years at <a href="https://www.gyyz.com.cn/index.php?m=Wap" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
 </p>
