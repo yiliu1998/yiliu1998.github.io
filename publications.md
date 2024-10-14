@@ -6,14 +6,14 @@ slug: /publications
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
-<b> Adaptive Methods for Data Integration </b>
+<b> Data Integration and Transportability </b>
 
 <ol>	
 <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research</em>. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>] 
 </li>
 </ol>
 
-<b> Robust and Efficient Methods for Randomized Clinical Trials </b>
+<b> Advanced Methods for Randomized Clinical Trials </b>
 
 <ol>	
 <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>Revision submitted</em>. 
@@ -21,13 +21,10 @@ slug: /publications
   
 </ol>
 
-<b> Advances in Propensity Score Methods </b>
+<b> Novel Developments and Practical Tutorials for Propensity Score Weighting </b>
 
 <ol>	
 <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
-</li>
-
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Extending Causal Interpretation to Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>Under review</em>.  
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
@@ -39,6 +36,15 @@ slug: /publications
   
 <li> Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] 
 </li>	
+
+</ol>
+
+<b> Selected Case Studies, Applications and Interdisciplinary Collaborations </b>
+
+<ol>	
+  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Extending Causal Interpretation to Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>Under review</em>.  
+</li>
 
 </ol>
   
