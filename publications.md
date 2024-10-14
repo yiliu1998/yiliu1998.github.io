@@ -21,7 +21,7 @@ slug: /publications
   
 </ol>
 
-<b> Novel Developments for Propensity Score Weighting </b>
+<b> Propensity Score Weighting </b>
 
 <ol>	
 <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
