@@ -31,7 +31,7 @@ slug: /publications
 </li>
 
 <li>Matsouaka RA*, <b>Liu Y*</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics - Simulation and Computation</em>. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/OWWWF_Poster.pdf" target="_blank">poster</a>] 
-<p style="color: orange;">Selected for Student Poster Award at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2023), Student Poster Award at Georgia Statistics Day (2022), and <a href="https://today.duke.edu/2022/05/class-2022-student-and-laurels" target="_blank"> Outstanding Master's Project Award (2022)</a> from Duke Biostatistics and Bioinformatics.</p> 
+<p style="color: orange;">Selected for Student Poster Award at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2023), Student Poster Award at Georgia Statistics Day (2022), and <a href="https://today.duke.edu/2022/05/class-2022-student-and-laurels" target="_blank" style="text-decoration: underline; color: orange;">Outstanding Master's Project Award (2022)</a> from Duke Biostatistics and Bioinformatics.</p>
 </li>
   
 <li> Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em>. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] 
