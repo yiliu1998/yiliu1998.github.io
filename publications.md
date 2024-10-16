@@ -16,7 +16,7 @@ slug: /publications
 <b> Randomized Clinical Trials </b>
 
 <ol>	
-<li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>Revision submitted</em>. 
+<li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>BMC Medical Research Methodology</em>. 
 </li>
   
 </ol>
