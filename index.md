@@ -20,11 +20,11 @@ I am broadly interested in the applications of statistical methods in various me
 </p>	
    
 <p> 
-I am funded by the <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> for cardiovascular disease (CVD) research (NCSU, Duke & Duke Clinical Research Institute). In the summer of 2024, I was an intern in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University, funded by the NIAID R25 training grant. 
+I am funded by the NCSU & Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> and work as a Biostatistics Fellow at Duke Clinical Research Institute <a href="https://dcri.org/" target="_blank">(DCRI)</a>. In the summer of 2024, I participated in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University. 
 </p>	
    
 <p> 
-Previously, I earned my Master of Biostatistics degree from the <a href="https://biostat.duke.edu/" target="_blank">Department of Biostatistics and Bioinformatics</a>, Duke University School of Medicine in <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a>, under the guidance of Professor <a href="https://scholars.duke.edu/person/roland.matsouaka" target="_blank">Roland Matsouaka</a>. During this time, I developed a keen interest in propensity score methods, which ignited my journey into causal inference. More previously, I obtained my Bachelor of Science in Mathematics and Applied Mathematics from <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> in Nanjing, Jiangsu Province, China in 2020.
+Previously, I earned my Master of Biostatistics degree from the <a href="https://biostat.duke.edu/" target="_blank">Department of Biostatistics and Bioinformatics</a>, Duke University School of Medicine in <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a>, under the guidance of Professor <a href="https://scholars.duke.edu/person/roland.matsouaka" target="_blank">Roland Matsouaka</a>. More previously, I obtained my Bachelor of Science in Mathematics and Applied Mathematics from <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> in Nanjing, Jiangsu Province, China in 2020.
 </p>	
    
 <p> 
