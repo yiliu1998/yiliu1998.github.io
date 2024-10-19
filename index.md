@@ -7,15 +7,15 @@ layout: home
 </p>
 
 <p>
+I am a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University (NCSU), under the direction of Drs. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. 
 
-I am currently a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University (NCSU), under the co-advisement of Professors <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. My research interests include:
-
+My methodology research interests include:
 <ul>
-  <li>Causal inference, conformal prediction and missing data analysis</li>
-  <li>Data integration and efficiency gain on different causal parameter estimations</li>
-  <li>HIV/AIDS case study using quantitative methods</li>
-  <li>Win theory and statistics for composite endpoints in clinical trials</li>
+  <li>Comparative Effectiveness Research, Randomized Clinical Trials, Observational Studies</li>
+  <li>Covariate Adjustment, Propensity Score Weighting, Hierarchical Endpoints, Win Statistics</li>
+  <li>Machine Learning and AI, Federated Learning, Data Integration, Precision Medicine</li>
 </ul>
+I am broadly interested in the applications of statistical methods in various medical and health research, such as Cardiovascular Disease, HIV/AIDS, COVID-19, Congenital Heart Defects, Healthcare Disparities, etc. 
 
 </p>	
    
