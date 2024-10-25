@@ -4,7 +4,7 @@ title: Software
 slug: /software
 ---
 
-I develop user-friendly software, primarily in the form of R packages, to facilitate the dissemination and application of the methodologies I have proposed. These packages are designed to be accessible and intuitive for users from various backgrounds, enabling broader use of our research in practice.
+I develop user-friendly software, primarily in the form of R packages, to facilitate the dissemination of the methodologies I have proposed, enabling broader applications of our research in practice.
 
 <ol>	
 <!-- 
