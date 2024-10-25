@@ -45,9 +45,9 @@ slug: /publications
 <li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Extending Causal Interpretation to Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>Under review</em>.  
 </li>
 
-<li> Social Determinants of HIV Status and Reporting Viral Load Suppression Among Transgender Women in South Africa. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<!-- <li> Social Determinants of HIV Status and Reporting Viral Load Suppression Among Transgender Women in South Africa. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award (2024)</a> at Duke Center for AIDS Research Fall Scientific Retreat.</p>
-</li>
+</li> -->
 </ol>
   
 
