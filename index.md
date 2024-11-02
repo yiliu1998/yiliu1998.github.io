@@ -11,9 +11,8 @@ I am a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?a
 
 My methodology research interests include:
 <ul>
-  <li>Comparative Effectiveness Research, Randomized Clinical Trials, Observational Studies</li>
-  <li>Covariate Adjustment, Propensity Score Weighting, Hierarchical Endpoints, Win Statistics</li>
-  <li>Machine Learning and AI, Federated Learning, Data Integration, Precision Medicine</li>
+  <li>Federated Learning, Data Integration, Precision Medicine, Machine Learning and AI</li>
+  <li>Comparative Effectiveness, Propensity Score Weighting, Clinical Trials, Composite and Hierarchical Endpoints</li>
 </ul>
 I am broadly interested in the applications of statistical methods in various medical and health research, such as Cardiovascular Disease, HIV/AIDS, COVID-19, Congenital Heart Defects, Healthcare Disparities, etc. 
 
