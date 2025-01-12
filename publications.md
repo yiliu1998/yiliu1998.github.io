@@ -42,7 +42,7 @@ slug: /publications
 <b> Selected Applications and Interdisciplinary Collaborations </b>
 
 <ol>	
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Extending Causal Interpretation to Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>Under review</em>.  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Assessing Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>Under review</em>.  
 </li>
 
 <!-- <li> Social Determinants of HIV Status and Reporting Viral Load Suppression Among Transgender Women in South Africa. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
