@@ -7,10 +7,9 @@ slug: /software
 I develop user-friendly software, primarily in the form of R packages, to facilitate the dissemination of the methodologies I have proposed, enabling broader applications of our research in practice.
 
 <ol>	
-<!-- 
-<li><a href="https://github.com/yiliu1998/Coadvise" target="_blank"> Coadvise</a>: <b>CO</b>variate <b>AD</b>justment with <b>V</b>ar<b>I</b>able <b>SE</b>lection in randomized clinical trials.
+<li><a href="https://github.com/yiliu1998/Coadvise" target="_blank"> Coadvise</a>: <b>CO</b>variate <b>AD</b>justment with <b>V</b>ar<b>I</b>able <b>SE</b>lection and missing data imputation in randomized clinical trials.
 </li>
--->
+
 
 <li><a href="https://github.com/yiliu1998/MuSCI" target="_blank"> MuSCI</a>: <b>Mu</b>lti-<b>S</b>ource <b>C</b>onformal <b>I</b>nference under distribution shift. 
 </li>
