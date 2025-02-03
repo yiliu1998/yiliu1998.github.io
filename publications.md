@@ -6,7 +6,7 @@ slug: /publications
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
-<b> Data Integration and Transportability </b>
+<b> Data Fusion, Exchangeability and Federated Learning </b>
 
 <ol>	
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2024). <a href="https://arxiv.org/abs/2501.08945" target="_blank"> Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift.</a> Preprint. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
@@ -27,7 +27,7 @@ slug: /publications
   
 </ol>
 
-<b> Propensity Score Weighting </b>
+<b> Propensity Score Weighting in Observational Studies </b>
 
 <ol>	
 <li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
