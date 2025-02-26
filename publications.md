@@ -19,7 +19,7 @@ slug: /publications
 
 <ol>	
 
-<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials.</a> Preprint. [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software</a>]  
+<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Submitted</em>. [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software</a>]  
 </li>
   
 <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="https://doi.org/10.1186/s12874-024-02375-3" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>BMC Medical Research Methodology</em> 24(250):1-17. 
@@ -30,7 +30,7 @@ slug: /publications
 <b> Propensity Score Weighting in Observational Studies </b>
 
 <ol>	
-<li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Revision submitted</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
+<li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Under review</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
@@ -48,12 +48,12 @@ slug: /publications
 <b> Selected Applications and Interdisciplinary Collaborations </b>
 
 <ol>	
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Assessing Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>BMC Medical Research Methodology</em> (accepted).  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Assessing Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>BMC Medical Research Methodology</em>.  
 </li>
 
-<!-- <li> Social Determinants of HIV Status and Reporting Viral Load Suppression Among Transgender Women in South Africa. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, McCarthy J, and Howard L. Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis. <em>To be submitted.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award (2024)</a> at Duke Center for AIDS Research Fall Scientific Retreat.</p>
-</li> -->
+</li>
 </ol>
   
 
