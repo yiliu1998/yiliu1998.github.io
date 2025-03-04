@@ -53,7 +53,7 @@ slug: /publications
 <li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2024+). <a href="" target="_blank">Assessing Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting.</a> <em>BMC Medical Research Methodology</em>.  
 </li>
 
-<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, McCarthy J, and Howard L. Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis. <em>To be submitted.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, McCarthy J, and Howard L. Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis. <em>Submitted.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award (2024)</a> at Duke Center for AIDS Research Fall Scientific Retreat.</p>
 </li>
 </ol>
