@@ -54,7 +54,7 @@ slug: /publications
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award (2024)</a> at Duke Center for AIDS Research Fall Scientific Retreat.</p>
 </li>
   
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em>.  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em> 25(64):1-16.   
 </li>
 </ol>
   
