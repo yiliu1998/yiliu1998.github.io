@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University (NCSU), under the direction of Drs. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a> and <a href="https://bouve.northeastern.edu/directory/larry-han/" target="_blank">Larry Han</a>. 
+I am a PhD student in the <a href="https://sites.google.com/ncsu.edu/cima/home?authuser=2" target="_blank">CIMA Lab</a>, <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University (NCSU), under the direction of Dr. <a href="https://statistics.sciences.ncsu.edu/people/syang24/" target="_blank">Shu Yang</a>. 
 
 My methodology research interests include: Data fusion/integration, Federated learning, Machine learning and AI, Causal inference, Propensity score weighting, Clinical trials, Novel and composite endpoints, etc. I am also broadly interested in the applications of statistical methods in various medical and health research, such as Cardiovascular diseases, HIV/AIDS, COVID-19, Congenital heart defects, Racial disparities in healthcare, etc. 
 
