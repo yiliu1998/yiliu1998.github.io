@@ -13,7 +13,7 @@ My research interests include: Data fusion/integration, Federated learning, Caus
 </p>	
    
 <p> 
-I am funded by the NCSU & Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> and work as a Biostatistics Fellow at Duke Clinical Research Institute <a href="https://dcri.org/" target="_blank">(DCRI)</a>. In the summer of 2024, I participated in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University. 
+I am funded by the NCSU & Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> and work as a Biostatistics Fellow at Duke Clinical Research Institute <a href="https://dcri.org/" target="_blank">(DCRI)</a>. I am also honored to receive the generous two-year (2025–2026) support from the Merck Research Fellowship, awarded for outstanding research performance in biomedical statistics. In the summer of 2024, I participated in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University. 
 </p>	
    
 <p> 
