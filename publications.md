@@ -10,7 +10,7 @@ slug: /publications
 
 <ol>	
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift.</a> Preprint. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
-<p style="color: orange;">Selected for IMS Hannan Graduate Student Travel Award (2025) and Best Poster Award at Duke Industry Statistics Symposium (2025).</p>
+<p style="color: orange;">Selected for IMS Hannan Graduate Student Travel Award (2025) and Best Poster Award (2025) at Duke Industry Statistics Symposium.</p>
 </li>
   
 <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
@@ -40,7 +40,7 @@ slug: /publications
 </li>
 
 <li>Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics - Simulation and Computation</em>. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/OWWWF_Poster.pdf" target="_blank">poster</a>] 
-<p style="color: orange;">Selected for Student Poster Award at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2023), Student Poster Award at Georgia Statistics Day (2022), and <a href="https://today.duke.edu/2022/05/class-2022-student-and-laurels" target="_blank" style="text-decoration: underline; color: orange;">Outstanding Master's Project Award (2022)</a> from Duke Biostatistics and Bioinformatics.</p>
+<p style="color: orange;">Selected for Student Travel Award (2023) at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, Student Poster Award (2022) at Georgia Statistics Day, and <a href="https://today.duke.edu/2022/05/class-2022-student-and-laurels" target="_blank" style="text-decoration: underline; color: orange;">Outstanding Master's Project Award (2022)</a> from Duke Biostatistics and Bioinformatics.</p>
 </li>
   
 <li> Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2023). <a href="https://journals.sagepub.com/doi/10.1177/09622802221142532" target="_blank">Variance estimation for the average treatment effects on the treated and on the controls.</a> <em>Statistical Methods in Medical Research</em> 32(2):389-403. [<a href="https://arxiv.org/abs/2209.10742" target="_blank">arXiv</a>] 
