@@ -10,7 +10,7 @@ slug: /publications
 
 <ol>	
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift.</a> Preprint. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
-<p style="color: orange;">Selected for IMS Hannan Graduate Student Travel Award (2025) and <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank">Best Poster Award (2025)</a> at Duke Industry Statistics Symposium.</p>
+<p style="color: orange;">Selected for IMS Hannan Graduate Student Travel Award (2025) and <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank" style="text-decoration: underline; color: orange;>Best Poster Award (2025)</a> at Duke Industry Statistics Symposium.</p>
 </li>
   
 <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
