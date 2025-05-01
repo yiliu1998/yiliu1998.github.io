@@ -33,7 +33,7 @@ slug: /publications
 <b> Propensity Score Weighting in Observational Studies </b>
 
 <ol>	
-<li>Wang Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Under review</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
+<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2024). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Under review</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
