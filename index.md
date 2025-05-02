@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in the Department of Statistics at North Carolina State University. My research interests include: Data fusion/integration, Federated learning, Causal inference, Propensity score weighting, Clinical trials, Novel and composite endpoints, etc. I am also interested in broad areas of applications, such as Cardiovascular diseases, HIV/AIDS, Congenital heart defects, Racial disparities in healthcare, etc.
+I am a Ph.D. candidate in the Department of Statistics at North Carolina State University. My research interests include: Data fusion/integration, Federated learning, Causal inference, Propensity score weighting, Clinical trials, Novel and composite endpoints, etc. I am also interested in broad areas of applications, such as Cardiovascular diseases, HIV/AIDS, Congenital heart defects, Racial disparities in healthcare, etc. 
 </p>	
 
 Here is my educational journey: 
