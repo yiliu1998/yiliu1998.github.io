@@ -53,7 +53,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 <b> Selected Collaborative Work and Applications </b>
 
 <ol>
-<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J. Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis. <em>AIDS Care.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J. <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
 </li>
   
