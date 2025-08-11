@@ -35,6 +35,10 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 <b> Causal Inference for Observational Data </b>
 
 <ol>	
+
+<li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="" target="_blank">Variance estimation for weighted average treatment effects.</a> <em>Statistis in Biosciences</em> (upcoming). [<a href="" target="_blank">arXiv</a>]
+</li>
+
 <li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025+). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Under review</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
 </li>
   
