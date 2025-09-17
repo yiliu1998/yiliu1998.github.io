@@ -36,10 +36,10 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <ol>	
 
-<li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="" target="_blank">Variance estimation for weighted average treatment effects.</a> <em>Statistics in Biosciences</em> (upcoming). [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
+<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025+). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> (upcoming). [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
 </li>
 
-<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025+). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Under review</em>. [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
+<li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="" target="_blank">Variance estimation for weighted average treatment effects.</a> <em>Statistics in Biosciences</em> (upcoming). [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
@@ -57,7 +57,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 <b> Selected Collaborative Work and Applications </b>
 
 <ol>
-<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J. <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care.</em> [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J. <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9), 1507–1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
 <p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
 </li>
   
