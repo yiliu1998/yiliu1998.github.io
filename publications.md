@@ -39,7 +39,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 <li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025+). <a href="" target="_blank">Rate doubly robust estimations for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> (upcoming). [<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
 </li>
 
-<li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance estimation for weighted average treatment effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
+<li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance Estimation for Weighted Average Treatment Effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
