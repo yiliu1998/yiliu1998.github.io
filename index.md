@@ -20,5 +20,5 @@ Here is my educational journey:
 </ul>	
 
 <p> 
-I was born in <a href="http://www.eguizhou.gov.cn/" target="_blank">Guizhou</a> Province, China, and had the privilege of spending three enriching years at <a href="https://www.gyyz.com.cn/" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
+I was born in <a href="http://www.eguizhou.gov.cn/" target="_blank">Guizhou Province</a>, PRC, and had the privilege of spending three enriching years at <a href="https://www.gyyz.com.cn/" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
 </p>
