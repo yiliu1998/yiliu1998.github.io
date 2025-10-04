@@ -15,7 +15,7 @@ Here is my educational journey:
 </li>
 <li> Master of <a href="https://biostat.duke.edu/" target="_blank">Biostatistics</a>, Duke University School of Medicine, <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a> (Advisor: <a href="https://sites.duke.edu/matsouaka/" target="_blank">Roland A. Matsouaka</a>)
 </li>
-<li> B.S. in Mathematics and Applied Mathematics, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a>, China, 2020
+<li> B.S. in Mathematics and Applied Mathematics, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> (P.R.China), 2020
 </li>
 </ul>	
 
