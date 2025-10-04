@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in the Department of Statistics at North Carolina State University. My research interests include: Data fusion/integration, Federated learning, Causal inference, Propensity score weighting, Clinical trials, Novel and composite endpoints, etc. I am also interested in broad areas of applications, such as Cardiovascular diseases, HIV/AIDS, Congenital heart defects, Racial disparities in healthcare, etc.  
+I am a Ph.D. candidate in the Department of Statistics at North Carolina State University and a Biostatistics Fellow at the <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, supported by the joint NCSU–Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a>. My research interests include causal inference for both observational and randomized studies, the analysis of novel and composite endpoints, data fusion, and federated learning for multi-source biomedical data. I am also broadly interested in applications to cardiovascular diseases, HIV/AIDS, congenital heart defects, and racial disparities in healthcare.
 </p>	
 
 Here is my educational journey: 
@@ -19,10 +19,6 @@ Here is my educational journey:
 </li>
 </ul>	
 
-<p> 
-My Ph.D. study is funded by the NCSU & Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a> where I work as a Biostatistics Fellow at <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>. I am also honored to receive the generous two-year support from the Merck Research Fellowship (2025-2026), awarded for outstanding research performance in biomedical statistics. In the summer of 2024, I participated in the <a href="https://cfar.duke.edu/front-page/2024-quan-methods-summer-intern-profiles" target="_blank">Quantitative Methods Internship in HIV/AIDS Research</a>, Duke University. 
-</p>	
-   
 <p> 
 I was born in <a href="http://www.eguizhou.gov.cn/" target="_blank">Guizhou</a> Province, China, and had the privilege of spending three enriching years at <a href="https://www.gyyz.com.cn/" target="_blank">No.1 High School of Guiyang</a> before commencing my college education.
 </p>
