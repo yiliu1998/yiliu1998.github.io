@@ -24,7 +24,9 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <ol>	
 
-<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em> (forthcoming). [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software</a>]  
+<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em> (forthcoming). [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software</a>] 
+<p style="color: orange;">Selected for Best Student Poster Award from New England Rare
+Disease Statistics (NERDS) Workshop (2025).</p>
 </li>
   
 <li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="https://doi.org/10.1186/s12874-024-02375-3" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>BMC Medical Research Methodology</em> 24(250):1-17. 
