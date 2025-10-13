@@ -9,7 +9,10 @@ slug: /research
 <b> Privacy-Protected Data Fusion </b>
 
 <div align="center">
-  <img src="/assets/img/fuseflow.jpg" alt="Data Fusion Methodology" width="60%">
+  <img src="/assets/img/fuseflow.jpg" 
+       alt="Federated Data Fusion Diagram" 
+       width="80%" 
+       style="margin-bottom: 15px;">
 </div>
 
 <ol>	
