@@ -9,7 +9,7 @@ slug: /research
 <b> Data Fusion, Exchangeability and Federated Learning </b>
 
 <div align="center">
-  <img src="/assets/img/fuseflow.jpg" alt="Data Fusion Methodology" width="70%">
+  <img src="/assets/img/fuseflow.jpg" alt="Data Fusion Methodology" width="60%">
 </div>
 
 <ol>	
