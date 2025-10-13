@@ -15,14 +15,12 @@ header:
       slug: /
     - name: Publications
       slug: /publications
-    - name: Software
-      slug: /software
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yliu297[AT]ncsu[DOT]edu
+      value: yliu297@ncsu.edu
   follow:
     - name: Github
       link: https://github.com/yiliu1998
