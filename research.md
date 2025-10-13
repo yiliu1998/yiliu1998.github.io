@@ -6,7 +6,7 @@ slug: /research
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
-<b> Data Fusion, Exchangeability and Federated Learning </b>
+<b> Privacy-Protected Data Fusion </b>
 
 <div align="center">
   <img src="/assets/img/fuseflow.jpg" alt="Data Fusion Methodology" width="60%">
@@ -38,7 +38,7 @@ Disease Statistics (NERDS) Workshop (2025).</p>
   
 </ol>
 
-<b> Causal Inference for Observational Data </b>
+<b> Observational Studies </b>
 
 <ol>	
 
