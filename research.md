@@ -63,7 +63,7 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 
 </ol>
 
-<b> Selected Collaborative Work and Applications </b>
+<b> Collaborative Work and Applications </b>
 
 <ol>
 <li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J. <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9):1507-1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
