@@ -15,7 +15,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 </p>
 </li>
   
-<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
+<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software: MuSCI</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
 <p style="color: orange;">Selected for Graduate Stduent Association Travel Award from North Carolina State University (2024).</p>
 </li>
 </ol>
@@ -24,7 +24,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <ol>	
 
-<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em> (forthcoming). [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software</a>] 
+<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://arxiv.org/abs/2501.08945" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em> (forthcoming). [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software: Coadvise</a>] 
 <p style="color: orange;">Selected for Best Student Poster Award from New England Rare
 Disease Statistics (NERDS) Workshop (2025).</p>
 </li>
@@ -38,16 +38,16 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 
 <ol>	
 
-<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025). <a href="" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> (forthcoming). [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software</a>]  
+<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025). <a href="" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> (forthcoming). [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
 </li>
 
 <li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance Estimation for Weighted Average Treatment Effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
 </li>
   
-<li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/ENAR_2024.pdf" target="_blank">slides</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software</a>]
+<li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software: ATTweights</a>]
 </li>
 
-<li>Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics - Simulation and Computation</em> 54(7):2672-2691. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>][<a href="https://yiliu1998.github.io/slides/OWWWF_Poster.pdf" target="_blank">poster</a>] 
+<li>Matsouaka RA, <b>Liu Y</b>, and Zhou Y (2024). <a href="https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2319419" target="_blank">Overlap, matching, or entropy weights: what are we weighting for?</a> <em>Communications in Statistics–Simulation and Computation</em> 54(7):2672-2691. [<a href="https://arxiv.org/abs/2210.12968" target="_blank">arXiv</a>]
 <p style="color: orange;">Selected for Student Travel Award at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (2023), Student Poster Award at Georgia Statistics Day (2022), and <a href="https://today.duke.edu/2022/05/class-2022-student-and-laurels" target="_blank" style="text-decoration: underline; color: orange;">Outstanding Master's Project Award</a> from Duke Biostatistics and Bioinformatics (2022).</p>
 </li>
   
