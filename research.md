@@ -8,6 +8,10 @@ slug: /research
 
 <b> Data Fusion, Exchangeability and Federated Learning </b>
 
+<div align="center">
+  <img src="/assets/img/fuseflow.jpg" alt="Data Fusion Methodology" width="70%">
+</div>
+
 <ol>	
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift.</a> Preprint. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
 <p style="color: orange;">
