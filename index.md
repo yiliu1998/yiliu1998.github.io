@@ -6,6 +6,10 @@ profile_picture:
 ---
 
 <p>
+Welcome to Yi Liu’s research webpage! I’m glad you stopped by.
+</p>	
+
+<p>
 I am a Ph.D. candidate in the <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Department of Statistics</a> at North Carolina State University and a Biostatistics Fellow at the <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, supported by the joint NCSU–Duke <a href="https://statistics.sciences.ncsu.edu/graduate/support/nhlbi/" target="_blank">NHLBI T32 training grant</a>. My research interests include causal inference for both observational and randomized studies, the analysis of novel and composite endpoints, data fusion, and federated learning for multi-source biomedical data. I am also broadly interested in applications to cardiovascular diseases, HIV/AIDS, congenital heart defects, and racial disparities in healthcare.
 </p>	
 
