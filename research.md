@@ -45,7 +45,7 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 
 <ol>	
 
-<li><b>Liu Y<sup>&dagger;</sup></b>, Wang Y, Gao Y, Poteat T, and Matsouaka RA (2025). <a href="" target="_blank">A tutorial for propensity score weighting methods under violations of the positivity assumption.</a> <em>Statistics in Medicine</em> (forthcoming). [<a href="https://github.com/yiliu1998/ChiPS" target="_blank">software: ChiPS</a>]  
+<li><b>Liu Y<sup>&dagger;</sup></b>, Wang Y, Gao Y, Poteat T, and Matsouaka RA (2025). <a href="" target="_blank">A tutorial for propensity score weighting methods under violations of the positivity assumption.</a> <em>Statistics in Medicine</em> (forthcoming). [<a href="https://arxiv.org/abs/2511.10077" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/ChiPS" target="_blank">software: ChiPS</a>]  
 </li>
 
 <li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025). <a href="" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> (forthcoming). [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
