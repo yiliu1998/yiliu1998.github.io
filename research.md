@@ -29,7 +29,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <b> Randomized Clinical Trials </b>
 
-Keywords: Covariate adjustment, High-dimensional covariate data, Composite endpoints, Win ratio
+Keywords: Covariate adjustment, High-dimensional covariate data, Composite/Hierarchical endpoints, Win ratio analysis, missingness, censoring.
 
 <ol>
 
