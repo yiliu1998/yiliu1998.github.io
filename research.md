@@ -8,7 +8,7 @@ slug: /research
 
 <b> Privacy-Protected (Federated) Data Fusion </b>
 
-Keywords: Exchangeability, Generalizability, Data-sharing constriants, Targeted federation, Large-scale data integration. 
+Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, Targeted federation, Large-scale data integration. 
 
 <div align="center">
   <img src="/assets/img/fuseflow2.jpg" 
