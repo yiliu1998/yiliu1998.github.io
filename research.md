@@ -6,7 +6,7 @@ slug: /research
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
-<b> Privacy-Protected Data Fusion </b>
+<b> Privacy-Protected (Federated) Data Fusion </b>
 
 <div align="center">
   <img src="/assets/img/fuseflow2.jpg" 
