@@ -29,7 +29,12 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <b> Randomized Clinical Trials </b>
 
-<ol>	
+Keywords: Covariate adjustment, High-dimensional covariate data, Composite endpoints, Win ratio
+
+<ol>
+
+<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2024). <a href="" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> Under review. 
+</li>
 
 <li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em>. [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software: Coadvise</a>] 
 <p style="color: orange;">Selected for Best Student Poster Award from New England Rare
@@ -42,6 +47,8 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 </ol>
 
 <b> Observational Studies </b>
+
+Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal estimands, Double-debiased machine learning, Semiparametric efficiency. 
 
 <ol>	
 
