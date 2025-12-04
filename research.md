@@ -13,7 +13,7 @@ Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, T
 <div align="center">
   <img src="/assets/img/fuseflow2.jpg" 
        alt="Federated Data Fusion Diagram" 
-       width="80%" 
+       width="100%" 
        style="margin-bottom: 15px;">
 </div>
 
