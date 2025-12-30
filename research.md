@@ -54,10 +54,10 @@ Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal est
 
 <ol>	
 
-<li><b>Liu Y<sup>&dagger;</sup></b>, Wang Y, Gao Y, Poteat T, and Matsouaka RA (2025). <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70329" target="_blank">A Tutorial for Propensity Score Weighting Methods Under Violations of the Positivity Assumption.</a> <em>Statistics in Medicine</em> 44(28–30):e70329. [<a href="https://arxiv.org/abs/2511.10077" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/ChiPS" target="_blank">software: ChiPS</a>]  
+<li>Wang Y, <b>Liu Y;</b>, and Yang S (2025). <a href="https://doi.org/10.1515/jci-2024-0073" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> 13(1):20240073. [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
 </li>
 
-<li>Wang Y, <b>Liu Y<sup>&dagger;</sup></b>, and Yang S (2025). <a href="https://doi.org/10.1515/jci-2024-0073" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> 13(1):20240073. [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
+<li><b>Liu Y<sup>&dagger;</sup></b>, Wang Y, Gao Y, Poteat T, and Matsouaka RA (2025). <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70329" target="_blank">A Tutorial for Propensity Score Weighting Methods Under Violations of the Positivity Assumption.</a> <em>Statistics in Medicine</em> 44(28–30):e70329. [<a href="https://arxiv.org/abs/2511.10077" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/ChiPS" target="_blank">software: ChiPS</a>]  
 </li>
 
 <li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance Estimation for Weighted Average Treatment Effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
