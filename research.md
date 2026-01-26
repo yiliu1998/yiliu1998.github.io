@@ -18,7 +18,7 @@ Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, T
 </div>
 
 <ol>
-<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="" target="_blank"> Federated Causal Survival Analysis Under Distribution Shift.</a><em>Proceedings of the 4oth International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>] 
+<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="" target="_blank"> Federated Causal Survival Analysis Under Distribution Shift.</a><em>Proceedings of the 40th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>] 
 </li>
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Causal Survival Analysis.</a> Preprint. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
 <p style="color: orange;">
