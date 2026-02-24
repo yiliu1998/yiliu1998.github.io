@@ -61,6 +61,13 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 
 Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal estimands, Double-debiased machine learning, Semiparametric efficiency. 
 
+<div align="center">
+  <img src="/assets/img/obsflow.jpg" 
+       alt="Observational Study Methodology Diagram" 
+       width="80%" 
+       style="margin-bottom: 15px;">
+</div>
+
 <ol>	
 
 <li>Wang Y, <b>Liu Y</b>, and Yang S (2025). <a href="https://doi.org/10.1515/jci-2024-0073" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> 13(1):20240073. [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
