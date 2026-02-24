@@ -35,6 +35,13 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 Keywords: Covariate adjustment, High-dimensional covariate data, Composite/Hierarchical endpoints, Win ratio analysis, missingness, censoring.
 
+<div align="center">
+  <img src="/assets/img/rctflow.jpg" 
+       alt="Clinical Trial Methodology Diagram" 
+       width="80%" 
+       style="margin-bottom: 15px;">
+</div>
+
 <ol>
 
 <li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2025+). <a href="https://arxiv.org/abs/2602.13533" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> Under review. [<a href="https://arxiv.org/abs/2602.13533" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinRS" target="_blank">software: WinRS</a>] 
