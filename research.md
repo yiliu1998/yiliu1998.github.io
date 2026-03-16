@@ -18,7 +18,7 @@ Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, T
 </div>
 
 <ol>
-<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
+<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>][<a href="https://recorder-v3.slideslive.com/?share=108045&s=ae4fd986-3439-4c30-a656-cb8aa266841f" target="_blank">5-min video</a>]
 </li>
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Causal Survival Analysis.</a> Under review at JASA. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
 <p style="color: orange;">
