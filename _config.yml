@@ -29,7 +29,7 @@ footer:
     - name: Google Scholar
       link: https://scholar.google.com/citations?user=ARA2oPcAAAAJ&hl=en
 
-width: 850px
+width: 900px
 
 # Build settings
 markdown: kramdown
