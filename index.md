@@ -17,7 +17,11 @@ Here is my key working experience:
 <ul>	
 <li> PhD Statistician Intern, <a href="https://www.lilly.com/" target="_blank">Eli Lilly and Company</a>, Indianapolis, IN, Summer 2026 (upcoming; very excited about the mysterious project I am going to work on!)
 </li>
-<li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, Durham, NC 2024–2026
+<li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, Durham, NC, 2024–2026
+  <ul>
+      <li>Projects: Estimation and inference of win measures under missing and censored data</li>
+      <li>Main mentor: Professor <a href="https://dcri.org/personnel/huiman-barnhart-phd" target="_blank">Huiman Barnhart</a></li>
+    </ul>
 </li>
 </ul>	
 
@@ -25,7 +29,7 @@ Here is my educational journey:
 <ul>	
 <li> Ph.D. in <a href="https://statistics.sciences.ncsu.edu/" target="_blank">Statistics</a>, North Carolina State University, ongoing (Advisor: Professor <a href="https://shuyang.wordpress.ncsu.edu/" target="_blank">Shu Yang</a>)
 </li>
-<li> Master of <a href="https://biostat.duke.edu/" target="_blank">Biostatistics</a>, Duke University School of Medicine, <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a> (Advisor: Professor <a href="https://sites.duke.edu/matsouaka/" target="_blank">Roland A. Matsouaka</a>)
+<li> Master of <a href="https://biostat.duke.edu/" target="_blank">Biostatistics</a>, Duke University School of Medicine, <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a> (Advisor: Professor <a href="https://dcri.org/personnel/roland-matsouaka-phd" target="_blank">Roland A. Matsouaka</a>)
 </li>
 <li> B.S. in Mathematics and Applied Mathematics, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> (PRC), 2020
 </li>
