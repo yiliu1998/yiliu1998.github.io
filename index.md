@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile3.jpg 
+  src: /assets/img/profile2.jpg 
   alt: website picture
 ---
 
 <p>
-Welcome to Yi Liu’s research webpage! I’m glad you stopped by.
+Thank you for visiting Yi Liu’s research webpage. You found me! 
 </p>	
 
 <p>
