@@ -17,9 +17,7 @@ Here is my key working experience:
 <ul>	
 <li> PhD Statistician Intern, Eli Lilly and Company, Summer 2026 (upcoming; very excited about the mysterious project I am going to work on!)
 </li>
-<li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>
-  <li> Main mentor: Professor Huiman Barnhart
-  </li> 
+<li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, 2024–2026
 </li>
 </ul>	
 
