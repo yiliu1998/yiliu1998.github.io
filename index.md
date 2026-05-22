@@ -15,12 +15,13 @@ I am a Ph.D. candidate in the <a href="https://statistics.sciences.ncsu.edu/" ta
 
 Here is my key working experience:
 <ul>	
-<li> PhD Statistician Intern, <a href="https://www.lilly.com/" target="_blank">Eli Lilly and Company</a>, Indianapolis, IN, Summer 2026 (upcoming; very excited about the mysterious project I am going to work on!)
+<li> PhD Statistician Intern, <a href="https://www.lilly.com/" target="_blank">Eli Lilly and Company</a>, Indianapolis, IN, Summer 2026
+  <li>Main mentors: Drs. Yang Ou, Mingyang Shan</li>
 </li>
 <li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, Durham, NC, 2024–2026
   <ul>
       <li>Projects: Estimation and inference of win measures under missing and censored data</li>
-      <li>Main mentor: Professor <a href="https://dcri.org/personnel/huiman-barnhart-phd" target="_blank">Huiman Barnhart</a></li>
+      <li>Main mentors: Professors <a href="https://dcri.org/personnel/huiman-barnhart-phd" target="_blank">Huiman Barnhart</a>, <a href="https://dcri.org/personnel/roland-matsouaka-phd" target="_blank">Roland Matsouaka</a>, <a href="https://dcri.org/profile/sean-michael-obrien" target="_blank">Sean O'Brien</a>, and <a href="https://dcri.org/personnel/yuliya-lokhnygina-phd" target="_blank">Yuliya Lokhnygina</a></li>
     </ul>
 </li>
 </ul>	
