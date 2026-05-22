@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the <a href="https://statistics.sciences.ncsu.edu/" ta
 Here is my key working experience:
 <ul>	
 <li> PhD Statistician Intern, <a href="https://www.lilly.com/" target="_blank">Eli Lilly and Company</a>, Indianapolis, IN, Summer 2026
-  <li>Main mentors: Drs. Yang Ou, Mingyang Shan</li>
+  <li>Main mentors: Drs. Yang Ou, and Mingyang Shan</li>
 </li>
 <li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, Durham, NC, 2024–2026
   <ul>
