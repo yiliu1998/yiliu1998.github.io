@@ -44,6 +44,9 @@ Keywords: Covariate adjustment, High-dimensional covariates, Hierarchical endpoi
 
 <ol>
 
+<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="" target="_blank">Estimation and Inference for Win Measures with Multiple Ordinal Endpoints Subject to Missingness.</a> Pre-print. [<a href="" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinMO" target="_blank">software: WinMO</a>]
+</li>
+
 <li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10543406.2026.2667334" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> <em>Jounral of Biopharmaceutical Statistics</em>. [<a href="https://arxiv.org/abs/2602.13533" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinRS" target="_blank">software: WinRS</a>] 
 <p style="color: orange;">
 Selected for Best Poster Award at Duke Industry Statistics Symposium (2026).
