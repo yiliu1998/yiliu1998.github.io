@@ -18,14 +18,14 @@ Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, T
 </div>
 
 <ol>
-<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>][<a href="https://recorder-v3.slideslive.com/?share=108045&s=ae4fd986-3439-4c30-a656-cb8aa266841f" target="_blank">5-min video</a>]
-</li>
-<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2025). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.</a> Major revision submitted to <em>Journal of the American Statistical Association</em>. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
+<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026+). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.</a> Major revision submitted to <em>Journal of the American Statistical Association</em>. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
 <p style="color: orange;">
 Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/" target="_blank" style="text-decoration: underline; color: orange;">IMS Hannan Graduate Student Travel Award</a> (2025), <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank" style="text-decoration: underline; color: orange;">Best Poster Award</a> at Duke Industry Statistics Symposium (2025), <a href="https://math.gsu.edu/yichuan/2025Workshop/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Poster Award</a> of ASA Georgia Chapter (2025), and <a href="https://nestat.org/researchawards/nessresearch2025/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Presentation Award</a> at New England Statistics Sympoisum (2025).
 </p>
 </li>
-  
+<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>][<a href="https://recorder-v3.slideslive.com/?share=108045&s=ae4fd986-3439-4c30-a656-cb8aa266841f" target="_blank">5-min video</a>]
+</li>
+
 <li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software: MuSCI</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
 <p style="color: orange;">Selected for Graduate Stduent Association Travel Award from North Carolina State University (2024).</p>
 </li>
