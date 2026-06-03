@@ -17,12 +17,13 @@ Here is my key working experience:
 <ul>	
 <li> PhD Statistician Intern, <a href="https://www.lilly.com/" target="_blank">Eli Lilly and Company</a>, Indianapolis, IN, Summer 2026
   <ul>
-    <li>Main mentors: Drs. Yang Ou, and Mingyang Shan</li>
+    <li>Project: Causal inference under post-randomization concomitant medication imbalance</li>
+    <li>Supervisors: Drs. Yang Ou, and Mingyang Shan</li>
   </ul>
 </li>
 <li> Biostatistics Student Fellow, <a href="https://dcri.org/" target="_blank">Duke Clinical Research Institute</a>, Durham, NC, 2024–2026
   <ul>
-      <li>Projects: Estimation and inference of win measures under missing and censored data</li>
+      <li>Projects: Robust inference of win measures (win statistics) under missing and censored data</li>
       <li>Main mentors: Professors <a href="https://dcri.org/personnel/huiman-barnhart-phd" target="_blank">Huiman Barnhart</a>, <a href="https://dcri.org/personnel/roland-matsouaka-phd" target="_blank">Roland Matsouaka</a>, <a href="https://dcri.org/profile/sean-michael-obrien" target="_blank">Sean O'Brien</a>, and <a href="https://dcri.org/personnel/yuliya-lokhnygina-phd" target="_blank">Yuliya Lokhnygina</a></li>
     </ul>
 </li>
@@ -35,6 +36,18 @@ Here is my educational journey:
 <li> Master of <a href="https://biostat.duke.edu/" target="_blank">Biostatistics</a>, Duke University School of Medicine, <a href="https://biostat.duke.edu/news/master-biostatistics-class-2022-celebrate-commencement" target="_blank">2022</a> (Advisor: Professor <a href="https://dcri.org/personnel/roland-matsouaka-phd" target="_blank">Roland A. Matsouaka</a>)
 </li>
 <li> B.S. in Mathematics and Applied Mathematics, <a href="https://www.seu.edu.cn/" target="_blank">Southeast University</a> (PRC), 2020
+</li>
+</ul>	
+
+Selected honors and awards (more can be found in my Research page under each publication):
+<ul>	
+<li> ASA Biopharamaceutical Section Scholarship Award ($3,000), 2026
+</li>
+<li> Gold Reviewer Award, International Conference on Machine Learning (ICML), 2026
+</li>
+<li> Merck Research Fellowship ($22,500), 2025
+</li>
+<li> IMS Hannan Student Travel Award, 2025
 </li>
 </ul>	
 
