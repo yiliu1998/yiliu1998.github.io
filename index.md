@@ -47,7 +47,7 @@ Selected honors and awards (more can be found in my Research page under each pub
 </li>
 <li> Merck Research Fellowship ($22,500), 2025
 </li>
-<li> IMS Hannan Student Travel Award, 2025
+<li> IMS Hannan Student Travel Award ($600), 2025
 </li>
 </ul>	
 
