@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Thank you for visiting Yi Liu’s research webpage. You found me! 
+Thank you for visiting Yi Liu’s webpage! 
 </p>	
 
 <p>
