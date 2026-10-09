@@ -6,6 +6,10 @@ slug: /research
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
+<b> PhD Dissertation </b>
+
+Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
+
 <b> Privacy-Protected (Federated) Data Fusion </b>
 
 Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, Targeted federation, Large-scale data integration. 
