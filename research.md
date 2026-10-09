@@ -8,7 +8,7 @@ slug: /research
 
 <b> PhD Dissertation </b>
 
-Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. September 21, 2026. [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
+Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. *September 21, 2026.* [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
 
 <b> Privacy-Protected (Federated) Data Fusion </b>
 
