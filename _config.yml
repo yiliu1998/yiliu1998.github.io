@@ -13,8 +13,8 @@ header:
   pages:
     - name: About Me
       slug: /
-    - name: Research
-      slug: /research
+    - name: Publications
+      slug: /pub
 
 footer:
   show_powered_by: true
