@@ -28,6 +28,13 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 
 <b> 2026 </b>
 
+<div align="center">
+  <img src="/assets/img/rctflow.jpg" 
+       alt="RCT methods figures" 
+       width="80%" 
+       style="margin-bottom: 15px;">
+</div>
+
 <ol>
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
 </li>
@@ -47,14 +54,14 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 
 <b> 2025 </b>
 
-<ol>
+<div align="center">
+  <img src="/assets/img/obsflow.jpg" 
+       alt="Observational methods figures" 
+       width="80%" 
+       style="margin-bottom: 15px;">
+</div>
 
-<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9):1507-1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
-<p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
-</li>
-  
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em> 25(64):1-16.   
-</li>
+<ol>
 
 <li>Wang Y, <b>Liu Y</b>, and Yang S (2025). <a href="https://doi.org/10.1515/jci-2024-0073" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> 13(1):20240073. [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
 </li>
@@ -63,6 +70,13 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 </li>
 
 <li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance Estimation for Weighted Average Treatment Effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
+</li>
+
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9):1507-1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
+</li>
+  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em> 25(64):1-16.   
 </li>
   
 </ol>
