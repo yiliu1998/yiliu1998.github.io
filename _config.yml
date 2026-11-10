@@ -14,7 +14,7 @@ header:
     - name: About Me
       slug: /
     - name: Publications
-      slug: /pub
+      slug: /publications
 
 footer:
   show_powered_by: true
