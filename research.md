@@ -1,18 +1,12 @@
 ---
 layout: default
-title: Research
-slug: /research
+title: Publications
+slug: /pub
 ---
 
 *marks equal contributions; <sup>&dagger;</sup>indicates I am a corresponding author. 
 
-<b> PhD Dissertation </b>
-
-Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. *September 21, 2026.* [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
-
-<b> Privacy-Protected (Federated) Data Fusion </b>
-
-Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, Targeted federation, Large-scale data integration. 
+<b> Recent Pre-prints </b>
 
 <div align="center">
   <img src="/assets/img/fuseflow2.jpg" 
@@ -27,28 +21,15 @@ Keywords: Exchangeability, Distribution/label shift, Data-sharing constraints, T
 Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/" target="_blank" style="text-decoration: underline; color: orange;">IMS Hannan Graduate Student Travel Award</a> (2025), <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank" style="text-decoration: underline; color: orange;">Best Poster Award</a> at Duke Industry Statistics Symposium (2025), <a href="https://math.gsu.edu/yichuan/2025Workshop/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Poster Award</a> of ASA Georgia Chapter (2025), and <a href="https://nestat.org/researchawards/nessresearch2025/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Presentation Award</a> at New England Statistics Sympoisum (2025).
 </p>
 </li>
-<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
-</li>
 
-<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software: MuSCI</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
-<p style="color: orange;">Selected for Graduate Stduent Association Travel Award from North Carolina State University (2024).</p>
+<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://arxiv.org/abs/2605.27085" target="_blank">Estimation and Inference for Win Measures with Multiple Ordinal Endpoints Subject to Missingness.</a> Pre-print. [<a href="https://arxiv.org/abs/2605.27085" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinMO" target="_blank">software: WinMO</a>]
 </li>
 </ol>
 
-<b> Randomized Clinical Trials </b>
-
-Keywords: Covariate adjustment, High-dimensional covariates, Hierarchical endpoints, Win measures, Missing data, Censored outcomes.
-
-<div align="center">
-  <img src="/assets/img/rctflow.jpg" 
-       alt="Clinical Trial Methodology Diagram" 
-       width="80%" 
-       style="margin-bottom: 15px;">
-</div>
+<b> 2026 </b>
 
 <ol>
-
-<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://arxiv.org/abs/2605.27085" target="_blank">Estimation and Inference for Win Measures with Multiple Ordinal Endpoints Subject to Missingness.</a> Pre-print. [<a href="https://arxiv.org/abs/2605.27085" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinMO" target="_blank">software: WinMO</a>]
+<li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
 </li>
 
 <li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10543406.2026.2667334" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> <em>Jounral of Biopharmaceutical Statistics</em>. [<a href="https://arxiv.org/abs/2602.13533" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinRS" target="_blank">software: WinRS</a>] 
@@ -57,28 +38,23 @@ Selected for Best Poster Award at Duke Industry Statistics Symposium (2026).
 </p>
 </li>
 
-<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2025). <a href="https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em>. [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software: Coadvise</a>] 
+<li><b>Liu Y</b>, Zhu K, Han L, and Yang S (2026). <a href="https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246" target="_blank">COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials.</a> <em>Journal of the Royal Statistical Society: Series A</em>. [<a href="https://arxiv.org/abs/2501.08945" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/Coadvise" target="_blank">software: Coadvise</a>] 
 <p style="color: orange;">Selected for Best Student Poster Award from New England Rare
 Disease Statistics (NERDS) Workshop (2025).</p>
 </li>
-  
-<li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="https://doi.org/10.1186/s12874-024-02375-3" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>BMC Medical Research Methodology</em> 24(250):1-17. 
-</li>
-  
+
 </ol>
 
-<b> Observational Studies </b>
+<b> 2025 </b>
 
-Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal estimands, Double-debiased machine learning, Semiparametric efficiency. 
+<ol>
 
-<div align="center">
-  <img src="/assets/img/obsflow.jpg" 
-       alt="Observational Study Methodology Diagram" 
-       width="80%" 
-       style="margin-bottom: 15px;">
-</div>
-
-<ol>	
+<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9):1507-1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
+<p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
+</li>
+  
+<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em> 25(64):1-16.   
+</li>
 
 <li>Wang Y, <b>Liu Y</b>, and Yang S (2025). <a href="https://doi.org/10.1515/jci-2024-0073" target="_blank">Rate doubly robust estimation for weighted average treatment effects.</a> <em>Journal of Causal Inference</em> 13(1):20240073. [<a href="https://arxiv.org/abs/2509.14502" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WATE" target="_blank">software: WATE</a>]  
 </li>
@@ -87,6 +63,19 @@ Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal est
 </li>
 
 <li>Li H*, <b>Liu Y*</b>, Zhou Y, Liu J, Fu D, and Matsouaka RA (2025). <a href="https://doi.org/10.1007/s12561-025-09503-7" target="_blank">Variance Estimation for Weighted Average Treatment Effects.</a> <em>Statistics in Biosciences</em>. [<a href="https://arxiv.org/abs/2508.08167" target="_blank">arXiv</a>]
+</li>
+  
+</ol>
+
+<b> 2024 and earlier </b>
+
+<ol>
+
+<li><b>Liu Y</b>, Levis A, Normand S-L, and Han L (2024). <a href="https://proceedings.mlr.press/v235/liu24ag.html" target="_blank"> Multi-Source Conformal Inference Under Distribution Shift.</a> <em>Proceedings of the 41st International Conference on Machine Learning (ICML)</em>, PMLR 235:31344-31382. [<a href="https://openreview.net/forum?id=qmUbSAgz08" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/Multi-Source-Conformal" target="_blank">software: MuSCI</a>][<a href="https://yiliu1998.github.io/slides/MuSCI_Poster.pdf" target="_blank">poster</a>]
+<p style="color: orange;">Selected for Graduate Stduent Association Travel Award from North Carolina State University (2024).</p>
+</li>
+
+<li>Gao Y*, <b>Liu Y*<sup>&dagger;</sup></b>, and Matsouaka RA (2024). <a href="https://doi.org/10.1186/s12874-024-02375-3" target="_blank">When does adjusting covariate under randomization help? A comparative study on current practices.</a> <em>BMC Medical Research Methodology</em> 24(250):1-17. 
 </li>
   
 <li><b>Liu Y</b>, Li H, Zhou Y, and Matsouaka RA (2024). <a href="https://journals.sagepub.com/doi/10.1177/09622802241269646" target="_blank">Average treatment effect on the treated, under lack of positivity.</a> <em>Statistical Methods in Medical Research</em> 33(10):1689-1717. [<a href="https://arxiv.org/abs/2309.01334" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/ATTweights" target="_blank">software: ATTweights</a>]
@@ -101,15 +90,10 @@ Keywords: Propensity score weighting, Overlap/Positivity, Generalized causal est
 
 </ol>
 
-<b> Collaborative Work and Applications </b>
+<b> PhD Dissertation </b>
 
-<ol>
-<li> Poteat T, <b> Liu Y</b>, Adams D, van der Merwe L, Cloete A, Howard L, and McCarthy J (2025). <a href="https://www.tandfonline.com/doi/full/10.1080/09540121.2025.2535471" target="_blank">Social Determinants of HIV Status and Viral Load Suppression among Transgender Women in South Africa: A Cross-Sectional Analysis.</a> <em>AIDS Care</em> 37(9):1507-1520. [<a href="https://yiliu1998.github.io/slides/CFAR_infographic.pdf" target="_blank">infographic</a>]
-<p style="color: orange;">Selected for <a href="https://cfar.duke.edu/news-events/annual-retreat/2024-recap" target="_blank" style="text-decoration: underline; color: orange;">Best Quantitative Science Poster Award</a> at Duke Center for AIDS Research Fall Scientific Retreat (2024).</p>
-</li>
-  
-<li>Liu J, <b>Liu Y</b>, Zhou Y, and Matsouaka RA (2025). <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02508-2" target="_blank">Assessing racial disparities in healthcare expenditure using generalized propensity score weighting.</a> <em>BMC Medical Research Methodology</em> 25(64):1-16.   
-</li>
-</ol>
+Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. *September 21, 2026.* [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
+
+
   
 
