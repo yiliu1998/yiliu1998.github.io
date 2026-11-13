@@ -15,7 +15,7 @@ My current research interests include causal inference and survival analysis for
 
 Selected honors and awards (more can be found in my Publications page under each paper):
 <ul>	
-<li> ASA Biopharamaceutical Section Scholarship Award ($3,000), 2026 [<a href="[https://dcri.org/o2e](https://dcri.org/news/dcri-accomplishments-summer-early-fall-2026)" target="_blank">O2E announcement</a>]
+<li> ASA Biopharamaceutical Section Scholarship Award ($3,000), 2026 [<a href="https://dcri.org/news/dcri-accomplishments-summer-early-fall-2026" target="_blank">O2E announcement</a>]
 </li>
 <li> Gold Reviewer Award, International Conference on Machine Learning (ICML), 2026
 </li>
