@@ -9,6 +9,12 @@ slug: /publications
 <b> Recent Pre-prints </b>
 
 <ol>
+<li><b>Liu Y</b>, Levis A, Yang S, and Han L (2026+). <a href="https://arxiv.org/abs/2611.26289" target="_blank"> Causal Effect Estimation Under Uncertain Statistical Surrogacy.</a> Submitted to <em>Biomertika</em>. [<a href="https://arxiv.org/abs/2611.26289" target="_blank">arXiv</a>]
+<p style="color: orange;">
+Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/" target="_blank" style="text-decoration: underline; color: orange;">IMS Hannan Graduate Student Travel Award</a> (2025), <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank" style="text-decoration: underline; color: orange;">Best Poster Award</a> at Duke Industry Statistics Symposium (2025), <a href="https://math.gsu.edu/yichuan/2025Workshop/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Poster Award</a> of ASA Georgia Chapter (2025), and <a href="https://nestat.org/researchawards/nessresearch2025/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Presentation Award</a> at New England Statistics Sympoisum (2025).
+</p>
+</li>
+
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026+). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.</a> Major revision submitted to <em>Journal of the American Statistical Association</em>. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
 <p style="color: orange;">
 Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-the-winners/" target="_blank" style="text-decoration: underline; color: orange;">IMS Hannan Graduate Student Travel Award</a> (2025), <a href="https://biostat.duke.edu/news/peijin-wang-and-yi-liu-receive-diss-best-poster-awards" target="_blank" style="text-decoration: underline; color: orange;">Best Poster Award</a> at Duke Industry Statistics Symposium (2025), <a href="https://math.gsu.edu/yichuan/2025Workshop/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Poster Award</a> of ASA Georgia Chapter (2025), and <a href="https://nestat.org/researchawards/nessresearch2025/" target="_blank" style="text-decoration: underline; color: orange;">Best Student Presentation Award</a> at New England Statistics Sympoisum (2025).
