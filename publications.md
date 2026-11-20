@@ -8,13 +8,6 @@ slug: /publications
 
 <b> Recent Pre-prints </b>
 
-<div align="center">
-  <img src="/assets/img/fuseflow2.jpg" 
-       alt="Federated Data Fusion Diagram" 
-       width="70%" 
-       style="margin-bottom: 15px;">
-</div>
-
 <ol>
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026+). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.</a> Major revision submitted to <em>Journal of the American Statistical Association</em>. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
 <p style="color: orange;">
@@ -26,14 +19,11 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 </li>
 </ol>
 
-<b> 2026 </b>
+<b> PhD Dissertation </b>
 
-<div align="center">
-  <img src="/assets/img/rctflow.jpg" 
-       alt="RCT methods figures" 
-       width="80%" 
-       style="margin-bottom: 15px;">
-</div>
+Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. September 21, 2026. [<a href="https://www.proquest.com/openview/bf1356983ce8be53424a50d74d1b2331/1?pq-origsite=gscholar&cbl=18750&diss=y" target="_blank">ProQuest</a>]
+
+<b> 2026 </b>
 
 <ol>
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
@@ -53,13 +43,6 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 </ol>
 
 <b> 2025 </b>
-
-<div align="center">
-  <img src="/assets/img/obsflow.jpg" 
-       alt="Observational methods figures" 
-       width="80%" 
-       style="margin-bottom: 15px;">
-</div>
 
 <ol>
 
@@ -103,11 +86,6 @@ Disease Statistics (NERDS) Workshop (2025).</p>
 </li>	
 
 </ol>
-
-<b> PhD Dissertation </b>
-
-Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for Causal Effect Estimation. *September 21, 2026.* [<a href="https://www.lib.ncsu.edu/resolver/1840.20/47079" target="_blank">NCSU Library Link</a>]
-
 
   
 
