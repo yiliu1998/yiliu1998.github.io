@@ -9,7 +9,7 @@ slug: /publications
 <b> Recent Pre-prints </b>
 
 <ol>
-<li><b>Liu Y</b>, Levis A, Yang S, and Han L (2026+). <a href="https://arxiv.org/abs/2611.26289" target="_blank"> Causal Effect Estimation Under Uncertain Statistical Surrogacy.</a> Submitted to <em>Biomertika</em>. [<a href="https://arxiv.org/abs/2611.26289" target="_blank">arXiv</a>]
+<li><b>Liu Y</b>, Levis A, Yang S, and Han L (2026+). <a href="https://arxiv.org/abs/2611.26289" target="_blank"> Causal Effect Estimation Under Uncertain Statistical Surrogacy.</a> Submitted to <em>Biometrika</em>. [<a href="https://arxiv.org/abs/2611.26289" target="_blank">arXiv</a>]
 </li>
 
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026+). <a href="https://arxiv.org/abs/2501.18798" target="_blank"> Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.</a> Major revision submitted to <em>Journal of the American Statistical Association</em>. [<a href="https://arxiv.org/abs/2501.18798" target="_blank">arXiv</a>]
