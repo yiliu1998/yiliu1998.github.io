@@ -18,7 +18,7 @@ Selected for <a href="https://imstat.org/2025/05/15/ims-travel-awards-2025-meet-
 </p>
 </li>
 
-<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://arxiv.org/abs/2605.27085" target="_blank">Estimation and Inference for Win Measures with Multiple Ordinal Endpoints Subject to Missingness.</a> Pre-print. [<a href="https://arxiv.org/abs/2605.27085" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinMO" target="_blank">software: WinMO</a>]
+<li><b>Liu Y<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://arxiv.org/abs/2605.27085" target="_blank">Estimation and Inference for Win Measures with Multiple Ordinal Endpoints Subject to Missingness.</a> Pre-print. [<a href="https://arxiv.org/abs/2605.27085" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinMO" target="_blank">software: WinMO</a>]
 </li>
 </ol>
 
@@ -32,7 +32,7 @@ Data-Adaptive, Robustness-Preserving, and Efficiency-Improving Methodology for C
 <li><b>Liu Y</b>, Levis A, Zhu K, Yang S, Gilbert PB, and Han L (2026). <a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank"> Privacy-Protected Causal Survival Analysis Under Distribution Shift.</a> <em>Proceedings of the 14th International Conference on Learning Representations (ICLR)</em>. [<a href="https://openreview.net/forum?id=aTxnsFFO7t" target="_blank">OpenReview</a>][<a href="https://github.com/yiliu1998/FuseSurv" target="_blank">software: FuseSurv</a>]
 </li>
 
-<li><b>Liu Y*<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10543406.2026.2667334" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> <em>Jounral of Biopharmaceutical Statistics</em>. [<a href="https://arxiv.org/abs/2602.13533" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinRS" target="_blank">software: WinRS</a>] 
+<li><b>Liu Y<sup>&dagger;</sup></b>, Barnhart H, O'Brien S, Lokhnygina Y, and Matsouaka RA (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/10543406.2026.2667334" target="_blank">Estimation and Inference of the Win Ratio for Two Hierarchical Endpoints Subject to Censoring and Missing Data.</a> <em>Jounral of Biopharmaceutical Statistics</em>. [<a href="https://arxiv.org/abs/2602.13533" target="_blank">arXiv</a>][<a href="https://github.com/yiliu1998/WinRS" target="_blank">software: WinRS</a>] 
 <p style="color: orange;">
 Selected for Best Poster Award at Duke Industry Statistics Symposium (2026).
 </p>
